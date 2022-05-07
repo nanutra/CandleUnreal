@@ -1977,3 +1977,55 @@ Script Stack (0 frames):
 [2022.05.07-14.28.11:588][976]AssetCheck: New page: Asset Save: MaisonV2
 [2022.05.07-14.28.11:588][976]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
 [2022.05.07-14.28.35:253][157]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.05.07-14.28.46:142][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.05.07-14.28.47:569][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-14.28.47:603][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.07-14.28.47:941][458]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/MaisonV256DA53C946E7B16BDA42E381E96AD2C4.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.05.07-14.28.47:971][458]AssetCheck: New page: Asset Save: MaisonV2
+[2022.05.07-14.28.47:971][458]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.05.07-14.28.48:824][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.07-14.28.48:846][554]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-14.28.48:846][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-14.28.48:922][554]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-14.28.48:922][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-14.28.48:977][554]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-14.28.48:977][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-14.28.49:019][554]LogSlate: Window 'PB_PereFauteil' being destroyed
+[2022.05.07-14.28.49:040][554]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.07-14.28.49:040][554]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-14.28.49:040][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-14.28.49:194][554]LogSlate: Window 'Candle - Unreal Editor' being destroyed
+[2022.05.07-14.28.49:669][555]Cmd: QUIT_EDITOR
+[2022.05.07-14.28.49:669][555]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.07-14.28.49:752][555]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.07-14.28.50:267][555]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.07-14.28.50:267][555]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.07-14.28.50:267][555]LogAudio: Display: Audio Device unregistered from world 'MaisonV2'.
+[2022.05.07-14.28.50:267][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-14.28.50:269][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-14.28.50:399][555]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.07-14.28.50:412][555]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.07-14.28.50:453][555]LogExit: Preparing to exit.
+[2022.05.07-14.28.51:076][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.05.07-14.28.52:240][555]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-14.28.52:243][555]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.07-14.28.52:243][555]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.07-14.28.52:243][555]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.07-14.28.52:243][555]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.07-14.28.52:243][555]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.07-14.28.52:243][555]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.07-14.28.52:243][555]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.07-14.28.52:243][555]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-14.28.52:244][555]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-14.28.52:247][555]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-14.28.52:248][555]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-14.28.52:250][555]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-14.28.52:252][555]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-14.28.52:253][555]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-14.28.52:255][555]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.07-14.28.52:256][555]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.05.07-14.28.52:256][555]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-14.28.52:746][555]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.05.07-14.28.53:370][555]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-14.28.53:380][555]LogExit: Editor shut down
+[2022.05.07-14.28.53:410][555]LogExit: Transaction tracking system shut down
