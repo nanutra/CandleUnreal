@@ -8861,3 +8861,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.07-12.26.27:475][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Iteractibles/WindowScreamer]
 [2022.05.07-12.26.27:502][462]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/WindowScreamer_Auto4E98FC11F46BBC36FACD2699BA9F033E4.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/Autosaves/Game/BluePrint/Iteractibles/WindowScreamer_Auto4.uasset'
 [2022.05.07-12.26.27:505][462]LogFileHelpers: Auto-saving content packages took 0.045
+[2022.05.07-12.28.48:668][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-12.28.48:709][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.07-12.28.49:030][322]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/MaisonV2EADB326745EFFAB1BAB136B8DBA2EE2C.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.05.07-12.28.49:057][322]AssetCheck: New page: Asset Save: MaisonV2
+[2022.05.07-12.28.49:057][322]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.05.07-12.28.50:405][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.07-12.28.51:328][452]LogSlate: Window 'Save Content' being destroyed
+[2022.05.07-12.28.51:348][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Iteractibles/WindowScreamer" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/BluePrint/Iteractibles/WindowScreamer.uasset" SILENT=true
+[2022.05.07-12.28.51:372][452]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/WindowScreamerB900E09648C5FB00C8475E864CB32A25.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/BluePrint/Iteractibles/WindowScreamer.uasset'
+[2022.05.07-12.28.51:386][452]AssetCheck: New page: Asset Save: WindowScreamer
+[2022.05.07-12.28.51:386][452]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Iteractibles/WindowScreamer.WindowScreamer
