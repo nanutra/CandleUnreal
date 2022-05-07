@@ -1144,3 +1144,538 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.07-15.11.00:237][282]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/MaisonV228CCDC8C4A5FD7ED14EF92842E3B171B.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap'
 [2022.05.07-15.11.00:263][282]AssetCheck: New page: Asset Save: MaisonV2
 [2022.05.07-15.11.00:263][282]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.05.07-16.42.26:752][350]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.07-16.42.26:761][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.07-16.42.26:761][350]PIE: New page: PIE session: MaisonV2 (7 mai 2022 à 20:42:26)
+[2022.05.07-16.42.26:790][350]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.42.26:931][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.141007s)
+[2022.05.07-16.42.26:934][350]LogAIModule: Creating AISystem for world MaisonV2
+[2022.05.07-16.42.26:935][350]LogPlayLevel: PIE: World Init took: (0.003472s)
+[2022.05.07-16.42.26:935][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MaisonV2.MaisonV2 to /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 (0.144892s)
+[2022.05.07-16.42.27:151][350]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2022.05.07-16.42.27:171][350]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.07-16.42.27:171][350]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.07-16.42.27:171][350]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.07-16.42.27:171][350]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.07-16.42.27:171][350]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.07-16.42.27:171][350]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.07-16.42.27:171][350]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.07-16.42.27:171][350]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.07-16.42.27:171][350]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.07-16.42.27:173][350]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.07-16.42.27:173][350]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.07-16.42.27:173][350]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.07-16.42.27:173][350]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.07-16.42.27:198][350]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.07-16.42.27:198][350]LogAudioMixer: Display: 1: FrontRight
+[2022.05.07-16.42.27:215][350]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.05.07-16.42.27:216][350]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.07-16.42.27:216][350]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.07-16.42.27:216][350]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.07-16.42.27:218][350]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.07-16.42.27:218][350]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.07-16.42.27:218][350]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.07-16.42.27:219][350]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.07-16.42.27:219][350]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.07-16.42.27:219][350]LogInit: FAudioDevice initialized.
+[2022.05.07-16.42.27:220][350]LogAudio: Display: Audio Device (ID: 4) registered with world 'MaisonV2'.
+[2022.05.07-16.42.27:236][350]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.07-16.42.27:251][350]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 up for play (max tick rate 0) at 2022.05.07-18.42.27
+[2022.05.07-16.42.27:253][350]LogWorld: Bringing up level for play took: 0.016637
+[2022.05.07-16.42.27:253][350]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.05.07-16.42.27:271][350]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.07-16.42.27:271][350]PIE: Server logged in
+[2022.05.07-16.42.27:272][350]PIE: Play in editor total start time 0,513 seconds.
+[2022.05.07-16.43.09:482][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.43.09:482][277]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.43.09:482][277]LogWorld: UWorld::CleanupWorld for MaisonV2, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-16.43.09:484][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.43.09:497][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-16.43.09:513][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.43.09:559][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.43.09:560][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.43.09:562][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.43.09:572][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.05.07-16.43.09:629][278]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.05.07-16.43.49:153][ 15]BlueprintLog: New page: Compile BP_Player
+[2022.05.07-16.43.49:369][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.05.07-16.44.09:724][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Players_BP/BP_Player" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/BluePrint/Players_BP/BP_Player.uasset" SILENT=true
+[2022.05.07-16.44.09:942][273]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/BP_Player507D8C2147AA4F2E22615EB81FFDC779.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/BluePrint/Players_BP/BP_Player.uasset'
+[2022.05.07-16.44.10:016][273]AssetCheck: New page: Asset Save: BP_Player
+[2022.05.07-16.44.10:016][273]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Players_BP/BP_Player.BP_Player
+[2022.05.07-16.44.18:481][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-16.44.18:531][157]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2022.05.07-16.44.18:901][157]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/MaisonV28313932649326C3D39368A93FF4653D9.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.05.07-16.44.18:925][157]AssetCheck: New page: Asset Save: MaisonV2
+[2022.05.07-16.44.18:925][157]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.05.07-16.44.22:864][573]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/PereChase/BT_Pere_Chase.BT_Pere_Chase
+[2022.05.07-16.44.59:683][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereChase/BT_Pere_Chase" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/PereChase/BT_Pere_Chase.uasset" SILENT=true
+[2022.05.07-16.44.59:685][681]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/BT_Pere_Chase74073BEE4124542EFA547780CCC0DED4.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/PereChase/BT_Pere_Chase.uasset'
+[2022.05.07-16.44.59:718][681]AssetCheck: New page: Asset Save: BT_Pere_Chase
+[2022.05.07-16.44.59:718][681]LogContentValidation: Display: Validating BehaviorTree /Game/AI/PereChase/BT_Pere_Chase.BT_Pere_Chase
+[2022.05.07-16.45.52:419][954]LogSlate: Window 'BT_Pere_Chase' being destroyed
+[2022.05.07-16.45.52:422][954]LogSlate: Window 'BT_Pere_Chase' being destroyed
+[2022.05.07-16.45.55:269][244]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.07-16.45.55:275][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.07-16.45.55:275][244]PIE: New page: PIE session: MaisonV2 (7 mai 2022 à 20:45:55)
+[2022.05.07-16.45.55:301][244]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.45.55:394][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093041s)
+[2022.05.07-16.45.55:395][244]LogAIModule: Creating AISystem for world MaisonV2
+[2022.05.07-16.45.55:395][244]LogPlayLevel: PIE: World Init took: (0.001495s)
+[2022.05.07-16.45.55:395][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MaisonV2.MaisonV2 to /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 (0.094768s)
+[2022.05.07-16.45.55:439][244]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.05.07-16.45.55:443][244]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.07-16.45.55:444][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.07-16.45.55:444][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.07-16.45.55:444][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.07-16.45.55:444][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.07-16.45.55:444][244]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.07-16.45.55:444][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.07-16.45.55:444][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.07-16.45.55:444][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.07-16.45.55:444][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.07-16.45.55:444][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.07-16.45.55:444][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.07-16.45.55:444][244]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.07-16.45.55:450][244]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.07-16.45.55:450][244]LogAudioMixer: Display: 1: FrontRight
+[2022.05.07-16.45.55:467][244]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.05.07-16.45.55:467][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.07-16.45.55:467][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.07-16.45.55:467][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.07-16.45.55:468][244]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.07-16.45.55:468][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.07-16.45.55:468][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.07-16.45.55:469][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.07-16.45.55:469][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.07-16.45.55:469][244]LogInit: FAudioDevice initialized.
+[2022.05.07-16.45.55:469][244]LogAudio: Display: Audio Device (ID: 5) registered with world 'MaisonV2'.
+[2022.05.07-16.45.55:482][244]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.07-16.45.55:493][244]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 up for play (max tick rate 0) at 2022.05.07-18.45.55
+[2022.05.07-16.45.55:495][244]LogWorld: Bringing up level for play took: 0.012224
+[2022.05.07-16.45.55:496][244]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.05.07-16.45.55:501][244]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.07-16.45.55:502][244]PIE: Server logged in
+[2022.05.07-16.45.55:503][244]PIE: Play in editor total start time 0,228 seconds.
+[2022.05.07-16.46.22:264][412]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/PereChase/BT_Pere_Chase.BT_Pere_Chase
+[2022.05.07-16.46.27:298][920]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/PereChase/IA_Pere_Chase.IA_Pere_Chase
+[2022.05.07-16.46.42:205][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.46.42:205][  9]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.46.42:205][  9]LogWorld: UWorld::CleanupWorld for MaisonV2, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-16.46.42:207][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.46.42:236][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-16.46.42:250][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.46.42:307][  9]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.07-16.46.42:307][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.46.42:308][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.46.42:312][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.46.42:322][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.05.07-16.46.42:367][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.05.07-16.46.46:934][440]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.07-16.46.46:943][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.07-16.46.46:943][440]PIE: New page: PIE session: MaisonV2 (7 mai 2022 à 20:46:46)
+[2022.05.07-16.46.46:943][440]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.46.47:031][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087263s)
+[2022.05.07-16.46.47:032][440]LogAIModule: Creating AISystem for world MaisonV2
+[2022.05.07-16.46.47:032][440]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2022.05.07-16.46.47:032][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MaisonV2.MaisonV2 to /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 (0.088766s)
+[2022.05.07-16.46.47:080][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.05.07-16.46.47:083][440]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.05.07-16.46.47:083][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.07-16.46.47:083][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.07-16.46.47:083][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.07-16.46.47:083][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.07-16.46.47:083][440]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.07-16.46.47:083][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.07-16.46.47:083][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.07-16.46.47:083][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.07-16.46.47:084][440]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.07-16.46.47:084][440]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.07-16.46.47:084][440]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.07-16.46.47:084][440]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.07-16.46.47:090][440]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.07-16.46.47:090][440]LogAudioMixer: Display: 1: FrontRight
+[2022.05.07-16.46.47:106][440]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.05.07-16.46.47:106][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.07-16.46.47:106][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.07-16.46.47:107][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.07-16.46.47:107][440]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.07-16.46.47:107][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.07-16.46.47:107][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.07-16.46.47:108][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.07-16.46.47:108][440]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.07-16.46.47:108][440]LogInit: FAudioDevice initialized.
+[2022.05.07-16.46.47:108][440]LogAudio: Display: Audio Device (ID: 6) registered with world 'MaisonV2'.
+[2022.05.07-16.46.47:117][440]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.07-16.46.47:128][440]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 up for play (max tick rate 0) at 2022.05.07-18.46.47
+[2022.05.07-16.46.47:130][440]LogWorld: Bringing up level for play took: 0.012833
+[2022.05.07-16.46.47:131][440]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.05.07-16.46.47:136][440]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.07-16.46.47:137][440]PIE: Server logged in
+[2022.05.07-16.46.47:138][440]PIE: Play in editor total start time 0,198 seconds.
+[2022.05.07-16.47.15:294][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.47.15:294][545]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.47.15:295][545]LogWorld: UWorld::CleanupWorld for MaisonV2, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-16.47.15:297][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.47.15:308][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-16.47.15:322][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.47.15:370][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.07-16.47.15:371][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.47.15:372][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.47.15:375][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.47.15:387][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.05.07-16.47.15:434][546]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.05.07-16.47.16:350][625]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.07-16.47.16:358][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.07-16.47.16:359][625]PIE: New page: PIE session: MaisonV2 (7 mai 2022 à 20:47:16)
+[2022.05.07-16.47.16:391][625]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.47.16:477][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085460s)
+[2022.05.07-16.47.16:478][625]LogAIModule: Creating AISystem for world MaisonV2
+[2022.05.07-16.47.16:478][625]LogPlayLevel: PIE: World Init took: (0.001567s)
+[2022.05.07-16.47.16:479][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MaisonV2.MaisonV2 to /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 (0.087253s)
+[2022.05.07-16.47.16:526][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.05.07-16.47.16:528][625]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.05.07-16.47.16:528][625]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.07-16.47.16:528][625]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.07-16.47.16:528][625]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.07-16.47.16:528][625]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.07-16.47.16:528][625]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.07-16.47.16:528][625]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.07-16.47.16:528][625]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.07-16.47.16:528][625]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.07-16.47.16:529][625]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.07-16.47.16:529][625]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.07-16.47.16:529][625]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.07-16.47.16:529][625]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.07-16.47.16:535][625]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.07-16.47.16:535][625]LogAudioMixer: Display: 1: FrontRight
+[2022.05.07-16.47.16:553][625]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.05.07-16.47.16:553][625]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.07-16.47.16:553][625]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.07-16.47.16:553][625]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.07-16.47.16:554][625]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.07-16.47.16:554][625]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.07-16.47.16:554][625]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.07-16.47.16:555][625]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.07-16.47.16:555][625]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.07-16.47.16:555][625]LogInit: FAudioDevice initialized.
+[2022.05.07-16.47.16:555][625]LogAudio: Display: Audio Device (ID: 7) registered with world 'MaisonV2'.
+[2022.05.07-16.47.16:563][625]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.07-16.47.16:573][625]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 up for play (max tick rate 0) at 2022.05.07-18.47.16
+[2022.05.07-16.47.16:575][625]LogWorld: Bringing up level for play took: 0.011312
+[2022.05.07-16.47.16:575][625]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.05.07-16.47.16:581][625]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.07-16.47.16:582][625]PIE: Server logged in
+[2022.05.07-16.47.16:583][625]PIE: Play in editor total start time 0,227 seconds.
+[2022.05.07-16.47.45:355][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.47.45:355][789]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.47.45:356][789]LogWorld: UWorld::CleanupWorld for MaisonV2, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-16.47.45:357][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.47.45:367][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-16.47.45:380][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.47.45:425][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.47.45:426][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.47.45:428][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.47.45:439][789]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.05.07-16.47.45:477][790]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.05.07-16.48.07:651][760]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/PereChase/BP_Pere_Chase.BP_Pere_Chase
+[2022.05.07-16.48.17:151][352]BlueprintLog: New page: Compile BP_Pere_Chase
+[2022.05.07-16.48.17:300][352]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.05.07-16.48.18:212][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereChase/BP_Pere_Chase" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/PereChase/BP_Pere_Chase.uasset" SILENT=true
+[2022.05.07-16.48.18:233][409]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/BP_Pere_Chase9EF10081483AFB195CAB76B06EB9F09A.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/PereChase/BP_Pere_Chase.uasset'
+[2022.05.07-16.48.18:388][409]AssetCheck: New page: Asset Save: BP_Pere_Chase
+[2022.05.07-16.48.18:388][409]LogContentValidation: Display: Validating Blueprint /Game/AI/PereChase/BP_Pere_Chase.BP_Pere_Chase
+[2022.05.07-16.48.54:397][526]BlueprintLog: New page: Compile IA_Pere_Chase
+[2022.05.07-16.48.54:479][526]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2022.05.07-16.48.59:793][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.07-16.48.59:802][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.07-16.48.59:802][ 38]PIE: New page: PIE session: MaisonV2 (7 mai 2022 à 20:48:59)
+[2022.05.07-16.48.59:831][ 38]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.48.59:918][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086838s)
+[2022.05.07-16.48.59:919][ 38]LogAIModule: Creating AISystem for world MaisonV2
+[2022.05.07-16.48.59:919][ 38]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2022.05.07-16.48.59:919][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MaisonV2.MaisonV2 to /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 (0.088213s)
+[2022.05.07-16.48.59:971][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2022.05.07-16.48.59:974][ 38]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.05.07-16.48.59:974][ 38]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.07-16.48.59:974][ 38]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.07-16.48.59:974][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.07-16.48.59:974][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.07-16.48.59:974][ 38]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.07-16.48.59:974][ 38]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.07-16.48.59:974][ 38]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.07-16.48.59:974][ 38]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.07-16.48.59:974][ 38]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.07-16.48.59:974][ 38]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.07-16.48.59:974][ 38]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.07-16.48.59:974][ 38]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.07-16.48.59:981][ 38]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.07-16.48.59:981][ 38]LogAudioMixer: Display: 1: FrontRight
+[2022.05.07-16.48.59:997][ 38]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.05.07-16.48.59:998][ 38]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.07-16.48.59:998][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.07-16.48.59:998][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.07-16.48.59:998][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.07-16.48.59:998][ 38]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.07-16.48.59:998][ 38]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.07-16.48.59:999][ 38]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.07-16.48.59:999][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.07-16.48.59:999][ 38]LogInit: FAudioDevice initialized.
+[2022.05.07-16.49.00:000][ 38]LogAudio: Display: Audio Device (ID: 8) registered with world 'MaisonV2'.
+[2022.05.07-16.49.00:012][ 38]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.07-16.49.00:023][ 38]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 up for play (max tick rate 0) at 2022.05.07-18.49.00
+[2022.05.07-16.49.00:025][ 38]LogWorld: Bringing up level for play took: 0.012196
+[2022.05.07-16.49.00:025][ 38]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.05.07-16.49.00:030][ 38]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.07-16.49.00:031][ 38]PIE: Server logged in
+[2022.05.07-16.49.00:032][ 38]PIE: Play in editor total start time 0,233 seconds.
+[2022.05.07-16.49.32:515][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.49.32:516][669]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.49.32:516][669]LogWorld: UWorld::CleanupWorld for MaisonV2, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-16.49.32:518][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.49.32:529][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-16.49.32:542][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.49.32:590][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.49.32:591][669]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.49.32:592][669]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.49.32:603][669]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.05.07-16.49.32:652][670]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.05.07-16.49.51:369][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereChase/BT_Pere_Chase" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/PereChase/BT_Pere_Chase.uasset" SILENT=true
+[2022.05.07-16.49.51:372][525]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/BT_Pere_ChaseDB966CF2427F54CC2CF99998E93BF50C.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/PereChase/BT_Pere_Chase.uasset'
+[2022.05.07-16.49.51:404][525]AssetCheck: New page: Asset Save: BT_Pere_Chase
+[2022.05.07-16.49.51:404][525]LogContentValidation: Display: Validating BehaviorTree /Game/AI/PereChase/BT_Pere_Chase.BT_Pere_Chase
+[2022.05.07-16.49.53:770][758]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.07-16.49.53:777][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.07-16.49.53:778][758]PIE: New page: PIE session: MaisonV2 (7 mai 2022 à 20:49:53)
+[2022.05.07-16.49.53:778][758]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.49.53:860][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082424s)
+[2022.05.07-16.49.53:861][758]LogAIModule: Creating AISystem for world MaisonV2
+[2022.05.07-16.49.53:861][758]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2022.05.07-16.49.53:861][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MaisonV2.MaisonV2 to /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 (0.083725s)
+[2022.05.07-16.49.53:910][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.05.07-16.49.53:913][758]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.05.07-16.49.53:913][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.07-16.49.53:913][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.07-16.49.53:913][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.07-16.49.53:913][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.07-16.49.53:913][758]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.07-16.49.53:913][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.07-16.49.53:913][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.07-16.49.53:913][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.07-16.49.53:914][758]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.07-16.49.53:914][758]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.07-16.49.53:914][758]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.07-16.49.53:914][758]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.07-16.49.53:920][758]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.07-16.49.53:920][758]LogAudioMixer: Display: 1: FrontRight
+[2022.05.07-16.49.53:937][758]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.05.07-16.49.53:937][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.07-16.49.53:937][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.07-16.49.53:937][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.07-16.49.53:938][758]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.07-16.49.53:938][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.07-16.49.53:938][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.07-16.49.53:939][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.07-16.49.53:939][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.07-16.49.53:939][758]LogInit: FAudioDevice initialized.
+[2022.05.07-16.49.53:939][758]LogAudio: Display: Audio Device (ID: 9) registered with world 'MaisonV2'.
+[2022.05.07-16.49.53:949][758]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.07-16.49.53:960][758]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 up for play (max tick rate 0) at 2022.05.07-18.49.53
+[2022.05.07-16.49.53:962][758]LogWorld: Bringing up level for play took: 0.011485
+[2022.05.07-16.49.53:962][758]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.05.07-16.49.53:967][758]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.07-16.49.53:968][758]PIE: Server logged in
+[2022.05.07-16.49.53:969][758]PIE: Play in editor total start time 0,194 seconds.
+[2022.05.07-16.50.16:125][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.50.16:125][303]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.50.16:126][303]LogWorld: UWorld::CleanupWorld for MaisonV2, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-16.50.16:127][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.50.16:138][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-16.50.16:151][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.50.16:198][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.50.16:200][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.50.16:201][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.50.16:211][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.05.07-16.50.16:255][304]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.05.07-16.50.42:206][433]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.07-16.50.42:214][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.07-16.50.42:214][433]PIE: New page: PIE session: MaisonV2 (7 mai 2022 à 20:50:42)
+[2022.05.07-16.50.42:214][433]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.50.42:296][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081988s)
+[2022.05.07-16.50.42:297][433]LogAIModule: Creating AISystem for world MaisonV2
+[2022.05.07-16.50.42:297][433]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2022.05.07-16.50.42:297][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MaisonV2.MaisonV2 to /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 (0.083296s)
+[2022.05.07-16.50.42:349][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.05.07-16.50.42:352][433]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.05.07-16.50.42:352][433]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.07-16.50.42:352][433]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.07-16.50.42:352][433]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.07-16.50.42:352][433]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.07-16.50.42:352][433]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.07-16.50.42:352][433]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.07-16.50.42:352][433]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.07-16.50.42:352][433]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.07-16.50.42:353][433]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.07-16.50.42:353][433]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.07-16.50.42:353][433]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.07-16.50.42:353][433]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.07-16.50.42:359][433]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.07-16.50.42:359][433]LogAudioMixer: Display: 1: FrontRight
+[2022.05.07-16.50.42:375][433]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.05.07-16.50.42:375][433]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.07-16.50.42:375][433]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.07-16.50.42:375][433]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.07-16.50.42:376][433]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.07-16.50.42:376][433]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.07-16.50.42:376][433]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.07-16.50.42:377][433]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.07-16.50.42:377][433]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.07-16.50.42:377][433]LogInit: FAudioDevice initialized.
+[2022.05.07-16.50.42:377][433]LogAudio: Display: Audio Device (ID: 10) registered with world 'MaisonV2'.
+[2022.05.07-16.50.42:389][433]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.07-16.50.42:399][433]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 up for play (max tick rate 0) at 2022.05.07-18.50.42
+[2022.05.07-16.50.42:401][433]LogWorld: Bringing up level for play took: 0.012035
+[2022.05.07-16.50.42:402][433]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.05.07-16.50.42:407][433]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.07-16.50.42:408][433]PIE: Server logged in
+[2022.05.07-16.50.42:409][433]PIE: Play in editor total start time 0,198 seconds.
+[2022.05.07-16.50.50:956][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.50.50:956][309]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.50.50:956][309]LogWorld: UWorld::CleanupWorld for MaisonV2, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-16.50.50:958][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.50.50:967][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-16.50.50:988][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.50.51:036][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.50.51:036][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.50.51:037][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.50.51:051][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.05.07-16.50.51:098][310]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.05.07-16.51.51:119][334]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.07-16.51.51:127][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.07-16.51.51:127][334]PIE: New page: PIE session: MaisonV2 (7 mai 2022 à 20:51:51)
+[2022.05.07-16.51.51:162][334]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.51.51:247][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084646s)
+[2022.05.07-16.51.51:248][334]LogAIModule: Creating AISystem for world MaisonV2
+[2022.05.07-16.51.51:248][334]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2022.05.07-16.51.51:248][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MaisonV2.MaisonV2 to /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 (0.085937s)
+[2022.05.07-16.51.51:295][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.05.07-16.51.51:356][334]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.05.07-16.51.51:356][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.07-16.51.51:356][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.07-16.51.51:356][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.07-16.51.51:356][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.07-16.51.51:356][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.07-16.51.51:356][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.07-16.51.51:356][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.07-16.51.51:356][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.07-16.51.51:357][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.07-16.51.51:357][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.07-16.51.51:357][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.07-16.51.51:357][334]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.07-16.51.51:363][334]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.07-16.51.51:363][334]LogAudioMixer: Display: 1: FrontRight
+[2022.05.07-16.51.51:380][334]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.05.07-16.51.51:381][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.07-16.51.51:381][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.07-16.51.51:381][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.07-16.51.51:381][334]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.07-16.51.51:381][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.07-16.51.51:381][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.07-16.51.51:382][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.07-16.51.51:382][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.07-16.51.51:382][334]LogInit: FAudioDevice initialized.
+[2022.05.07-16.51.51:382][334]LogAudio: Display: Audio Device (ID: 11) registered with world 'MaisonV2'.
+[2022.05.07-16.51.51:392][334]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.07-16.51.51:403][334]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 up for play (max tick rate 0) at 2022.05.07-18.51.51
+[2022.05.07-16.51.51:405][334]LogWorld: Bringing up level for play took: 0.012292
+[2022.05.07-16.51.51:405][334]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.05.07-16.51.51:410][334]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.07-16.51.51:411][334]PIE: Server logged in
+[2022.05.07-16.51.51:412][334]PIE: Play in editor total start time 0,287 seconds.
+[2022.05.07-16.52.15:046][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.52.15:046][ 58]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.52.15:046][ 58]LogWorld: UWorld::CleanupWorld for MaisonV2, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-16.52.15:048][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.52.15:057][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-16.52.15:080][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.52.15:128][ 58]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.07-16.52.15:130][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.52.15:131][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.52.15:134][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.52.15:146][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.05.07-16.52.15:192][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.05.07-16.52.45:983][516]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.07-16.52.45:992][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.07-16.52.45:992][516]PIE: New page: PIE session: MaisonV2 (7 mai 2022 à 20:52:45)
+[2022.05.07-16.52.45:992][516]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.52.46:079][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087208s)
+[2022.05.07-16.52.46:080][516]LogAIModule: Creating AISystem for world MaisonV2
+[2022.05.07-16.52.46:080][516]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2022.05.07-16.52.46:080][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MaisonV2.MaisonV2 to /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 (0.088601s)
+[2022.05.07-16.52.46:130][516]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.05.07-16.52.46:133][516]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.05.07-16.52.46:133][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.07-16.52.46:134][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.07-16.52.46:134][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.07-16.52.46:134][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.07-16.52.46:134][516]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.07-16.52.46:134][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.07-16.52.46:134][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.07-16.52.46:134][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.07-16.52.46:134][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.07-16.52.46:134][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.07-16.52.46:134][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.07-16.52.46:134][516]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.07-16.52.46:141][516]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.07-16.52.46:141][516]LogAudioMixer: Display: 1: FrontRight
+[2022.05.07-16.52.46:158][516]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.05.07-16.52.46:159][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.07-16.52.46:159][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.07-16.52.46:159][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.07-16.52.46:159][516]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.07-16.52.46:159][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.07-16.52.46:159][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.07-16.52.46:160][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.07-16.52.46:160][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.07-16.52.46:160][516]LogInit: FAudioDevice initialized.
+[2022.05.07-16.52.46:160][516]LogAudio: Display: Audio Device (ID: 12) registered with world 'MaisonV2'.
+[2022.05.07-16.52.46:173][516]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.07-16.52.46:183][516]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 up for play (max tick rate 0) at 2022.05.07-18.52.46
+[2022.05.07-16.52.46:185][516]LogWorld: Bringing up level for play took: 0.011230
+[2022.05.07-16.52.46:185][516]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.05.07-16.52.46:191][516]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.07-16.52.46:192][516]PIE: Server logged in
+[2022.05.07-16.52.46:193][516]PIE: Play in editor total start time 0,204 seconds.
+[2022.05.07-16.53.34:695][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.53.34:695][201]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.07-16.53.34:696][201]LogWorld: UWorld::CleanupWorld for MaisonV2, bSessionEnded=true, bCleanupResources=true
+[2022.05.07-16.53.34:697][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.53.34:712][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.07-16.53.34:725][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.07-16.53.34:773][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.07-16.53.34:774][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.53.34:775][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.07-16.53.34:785][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.05.07-16.53.34:824][202]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.05.07-16.53.42:906][ 91]LogEditorViewport: Clicking on Actor (LMB): BP_PereManager_C (BP_PereManager)
+[2022.05.07-16.54.37:194][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.07-16.54.37:244][961]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.05.07-16.54.37:584][961]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/MaisonV2BCC91E3F43D6A7444C40BC8CED465291.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.05.07-16.54.37:628][961]AssetCheck: New page: Asset Save: MaisonV2
+[2022.05.07-16.54.37:628][961]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.05.07-16.54.44:972][683]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2022.05.07-16.54.46:145][683]LogSlate: Window 'Save Content' being destroyed
+[2022.05.07-16.54.46:178][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereChase/BT_Pere_Chase" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/PereChase/BT_Pere_Chase.uasset" SILENT=true
+[2022.05.07-16.54.46:180][683]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/BT_Pere_Chase336C341E4D861BD210407E9DF0601ACC.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/PereChase/BT_Pere_Chase.uasset'
+[2022.05.07-16.54.46:183][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereChase/IA_Pere_Chase" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/PereChase/IA_Pere_Chase.uasset" SILENT=true
+[2022.05.07-16.54.46:191][683]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/IA_Pere_Chase232D51634ACBCA8945D1AAB947B24435.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/PereChase/IA_Pere_Chase.uasset'
+[2022.05.07-16.54.46:239][683]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.07-16.54.46:239][683]LogContentValidation: Display: Validating BehaviorTree /Game/AI/PereChase/BT_Pere_Chase.BT_Pere_Chase
+[2022.05.07-16.54.46:239][683]LogContentValidation: Display: Validating Blueprint /Game/AI/PereChase/IA_Pere_Chase.IA_Pere_Chase
+[2022.05.07-16.54.53:489][518]LogEditorViewport: Clicking on Actor (LMB): ChaiseBP_C (ChaiseBP5)
+[2022.05.07-16.55.10:361][254]LogEditorViewport: Clicking on Actor (LMB): ChaiseBP_C (ChaiseBP4)
+[2022.05.07-16.55.18:146][ 66]Cmd: DELETE
+[2022.05.07-16.55.18:162][ 66]Cmd: ACTOR DELETE
+[2022.05.07-16.55.18:269][ 66]LogEditorActor: Deleted Actor: ChaiseBP_C
+[2022.05.07-16.55.18:319][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.05.07-16.55.18:327][ 66]LogEditorActor: Deleted 1 Actors (0.133 secs)
