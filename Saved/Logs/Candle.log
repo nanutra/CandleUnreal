@@ -1976,3 +1976,4 @@ Script Stack (0 frames):
 [2022.05.07-14.28.11:557][976]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/MaisonV25CE8DF11462EAE63437C449F6ECE7FB6.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap'
 [2022.05.07-14.28.11:588][976]AssetCheck: New page: Asset Save: MaisonV2
 [2022.05.07-14.28.11:588][976]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.05.07-14.28.35:253][157]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
