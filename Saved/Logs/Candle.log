@@ -957,3 +957,306 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.08-15.51.09:271][476]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.08-15.51.09:271][476]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Players_BP/BP_Player.BP_Player
 [2022.05.08-15.51.09:271][476]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_PereManager.BP_PereManager
+[2022.05.08-15.52.53:712][935]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-15.52.53:776][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.05.08-15.54.22:105][159]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-15.54.22:170][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.05.08-15.55.54:140][892]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-15.55.54:205][892]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.05.08-15.57.17:466][165]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-15.57.17:535][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.05.08-16.00.25:204][765]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-16.00.25:273][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.05.08-16.01.41:773][334]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-16.01.41:841][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.05.08-16.01.59:399][314]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/PereFauteil/BT_PereFauteil.BT_PereFauteil
+[2022.05.08-16.02.06:210][938]LogSlate: Window 'BT_PereFauteil' being destroyed
+[2022.05.08-16.02.07:562][ 75]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/PereFauteil/IA_PereFauteil.IA_PereFauteil
+[2022.05.08-16.03.03:913][655]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/Iteractibles/Window.Window
+[2022.05.08-16.03.26:011][192]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/PereFauteil/PB_PereFauteil.PB_PereFauteil
+[2022.05.08-16.03.42:546][382]LogEditorTransaction: Undo Delete current selection
+[2022.05.08-16.04.00:843][787]BlueprintLog: New page: Compile PB_PereFauteil
+[2022.05.08-16.04.00:986][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.05.08-16.05.05:737][864]BlueprintLog: New page: Compile Window
+[2022.05.08-16.05.05:819][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.05.08-16.05.15:440][626]BlueprintLog: New page: Compile Window
+[2022.05.08-16.05.15:519][626]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.05.08-16.05.33:702][129]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/Interfaces/BP_InterfaceIA.BP_InterfaceIA
+[2022.05.08-16.05.50:678][837]BlueprintLog: New page: Compile BP_InterfaceIA
+[2022.05.08-16.05.50:774][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.05.08-16.06.10:279][355]BlueprintLog: New page: Compile Window
+[2022.05.08-16.06.10:283][355]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\Iteractibles\Window.uasset: [Compiler] Message node  Window Open  must have a valid target or reference to self.
+[2022.05.08-16.06.10:354][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.05.08-16.06.42:215][794]BlueprintLog: New page: Compile Window
+[2022.05.08-16.06.42:290][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.05.08-16.06.54:950][781]BlueprintLog: New page: Compile PB_PereFauteil
+[2022.05.08-16.06.55:047][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.05.08-16.08.14:055][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.05.08-16.08.14:391][414]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/MaisonV2_Auto1B1D17E8A49FA50CD180D11A27FF0D40C.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/Autosaves/Game/Levels/MaisonV2_Auto1.umap'
+[2022.05.08-16.08.14:396][414]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MaisonV2' took 0.387
+[2022.05.08-16.08.14:396][414]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.387
+[2022.05.08-16.08.14:396][414]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/PereFauteil/PB_PereFauteil] ([4] browsable assets)...
+[2022.05.08-16.08.14:420][414]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/AI/PereFauteil/PB_PereFauteil.PB_PereFauteil_C]
+[2022.05.08-16.08.14:437][414]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/PereFauteil/PB_PereFauteil.PB_PereFauteil]
+[2022.05.08-16.08.14:449][414]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/AI/PereFauteil/PB_PereFauteil.PB_PereFauteil_C]
+[2022.05.08-16.08.14:461][414]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/PereFauteil/PB_PereFauteil.PB_PereFauteil]
+[2022.05.08-16.08.14:461][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PereFauteil/PB_PereFauteil]
+[2022.05.08-16.08.14:487][414]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/PB_PereFauteil_Auto194C9774C4E2A10F4AFD50E819F533EE7.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/Autosaves/Game/AI/PereFauteil/PB_PereFauteil_Auto1.uasset'
+[2022.05.08-16.08.14:489][414]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/Interfaces/BP_InterfaceIA] ([2] browsable assets)...
+[2022.05.08-16.08.14:489][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Interfaces/BP_InterfaceIA]
+[2022.05.08-16.08.14:491][414]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/BP_InterfaceIA_Auto1C2620F1042CC820E82307086E1B6FCF8.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/Autosaves/Game/BluePrint/Interfaces/BP_InterfaceIA_Auto1.uasset'
+[2022.05.08-16.08.14:493][414]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/Iteractibles/Window] ([2] browsable assets)...
+[2022.05.08-16.08.14:505][414]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Iteractibles/Window.Window]
+[2022.05.08-16.08.14:505][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Iteractibles/Window]
+[2022.05.08-16.08.14:538][414]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/Window_Auto1A6C30F61480F910C45648CA942680152.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/Autosaves/Game/BluePrint/Iteractibles/Window_Auto1.uasset'
+[2022.05.08-16.08.14:540][414]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_PereManager] ([2] browsable assets)...
+[2022.05.08-16.08.14:540][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_PereManager]
+[2022.05.08-16.08.14:540][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_PereManager" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/Autosaves/Game/AI/BP_PereManager_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.05.08-16.08.14:590][414]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/BP_PereManager_Auto15D62721E4F954A372E207AA2FF1446B5.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/Autosaves/Game/AI/BP_PereManager_Auto1.uasset'
+[2022.05.08-16.08.14:591][414]LogFileHelpers: Auto-saving content packages took 0.196
+[2022.05.08-16.08.39:195][217]LogSlate: Took 0.012442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.05.08-16.09.11:058][869]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-16.09.11:147][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.05.08-16.09.25:334][459]LogEditorViewport: Clicking on Actor (LMB): Window_C (Window2)
+[2022.05.08-16.09.40:566][190]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-16.09.40:653][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.05.08-16.10.20:241][209]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-16.10.20:241][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-16.10.23:584][542]LogSlate: Window 'IA_PereFauteil' being destroyed
+[2022.05.08-16.10.31:743][430]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/DadInteractions/BP_FeuDeCheminée.BP_FeuDeCheminée
+[2022.05.08-16.12.02:583][892]BlueprintLog: New page: Compile Window
+[2022.05.08-16.12.02:680][892]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.05.08-16.15.08:724][306]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-16.15.08:813][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.05.08-16.17.46:220][177]BlueprintLog: New page: Compile Window
+[2022.05.08-16.17.46:251][177]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\Iteractibles\Window.uasset: [Compiler] SKEL_Window_C.IsWindowOpen is not blueprint writable.  Set IsWindowOpen
+[2022.05.08-16.17.46:251][177]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\Iteractibles\Window.uasset: [Compiler] SKEL_Window_C.IsWindowOpen is not blueprint writable.  Set IsWindowOpen
+[2022.05.08-16.17.46:346][177]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.05.08-16.18.11:606][924]BlueprintLog: New page: Compile Window
+[2022.05.08-16.18.11:700][924]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.05.08-16.19.16:239][228]BlueprintLog: New page: Compile Window
+[2022.05.08-16.19.16:337][228]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.05.08-16.19.38:519][603]BlueprintLog: New page: Compile Window
+[2022.05.08-16.19.38:614][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.05.08-16.20.10:857][151]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-16.20.10:946][151]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.05.08-16.22.01:475][383]BlueprintLog: New page: Compile Window
+[2022.05.08-16.22.01:504][383]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\Iteractibles\Window.uasset: [Compiler] Message node  Window Open  must have a valid target or reference to self.
+[2022.05.08-16.22.01:507][383]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\Iteractibles\Window.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to Reset Window
+[2022.05.08-16.22.01:599][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.05.08-16.23.30:809][581]BlueprintLog: New page: Compile Window
+[2022.05.08-16.23.30:814][581]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\Iteractibles\Window.uasset: [Compiler] Message node  Window Open  must have a valid target or reference to self.
+[2022.05.08-16.23.30:818][581]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\Iteractibles\Window.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to Reset Window
+[2022.05.08-16.23.30:907][581]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.05.08-16.23.35:195][ 44]BlueprintLog: New page: Compile Window
+[2022.05.08-16.23.35:204][ 44]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\Iteractibles\Window.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to Reset Window
+[2022.05.08-16.23.35:291][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.05.08-16.24.51:486][134]LogEditorTransaction: Undo Move Node
+[2022.05.08-16.25.54:397][279]BlueprintLog: New page: Compile Window
+[2022.05.08-16.25.54:501][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2022.05.08-16.26.15:227][300]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.05.08-16.26.15:242][300]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.08-16.26.44:524][414]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.05.08-16.26.44:538][414]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.08-16.27.10:845][251]BlueprintLog: New page: Compile Window
+[2022.05.08-16.27.10:955][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.05.08-16.28.48:483][305]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.28.48:560][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.05.08-16.29.00:326][624]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.29.00:531][624]LogClass: Warning: Type mismatch in BP_PereManagerRef of BP_FeuDeCheminée_C - Previous (BoolProperty) Current(SoftObjectProperty) for package:  FObjectReader
+[2022.05.08-16.29.00:601][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.05.08-16.29.51:910][455]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.29.51:913][455]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\DadInteractions\BP_FeuDeCheminée.uasset: [Compiler] SetIntensity  : unable to determine expected signature - is the delegate pin connected?
+[2022.05.08-16.29.51:913][455]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\DadInteractions\BP_FeuDeCheminée.uasset: [Compiler] Could not find an event-dispatcher named "ResetFire" in 'BP_PereManager_C'.
+Make sure 'BP_PereManager_C' has been compiled for  Bind Event to Reset Fire
+[2022.05.08-16.29.51:934][455]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\DadInteractions\BP_FeuDeCheminée.uasset: [Compiler] Failed to create property K2Node_CreateDelegate_OutputDelegate from  <None>  due to a bad or unknown type (Delegate)
+[2022.05.08-16.29.51:942][455]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\DadInteractions\BP_FeuDeCheminée.uasset: [Compiler] SetIntensity  Signature Error: Unable to determine expected signature - is the delegate pin connected?
+[2022.05.08-16.29.52:013][455]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.05.08-16.30.18:119][379]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.30.18:122][379]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\DadInteractions\BP_FeuDeCheminée.uasset: [Compiler] SetIntensity  : unable to determine expected signature - is the delegate pin connected?
+[2022.05.08-16.30.18:122][379]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\DadInteractions\BP_FeuDeCheminée.uasset: [Compiler] Could not find an event-dispatcher named "ResetFire" in 'BP_PereManager_C'.
+Make sure 'BP_PereManager_C' has been compiled for  Bind Event to Reset Fire
+[2022.05.08-16.30.18:122][379]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\DadInteractions\BP_FeuDeCheminée.uasset: [Compiler] Failed to create property K2Node_CreateDelegate_OutputDelegate from  <None>  due to a bad or unknown type (Delegate)
+[2022.05.08-16.30.18:123][379]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\DadInteractions\BP_FeuDeCheminée.uasset: [Compiler] SetIntensity  Signature Error: Unable to determine expected signature - is the delegate pin connected?
+[2022.05.08-16.30.18:193][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.05.08-16.30.46:861][639]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.30.46:864][639]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\DadInteractions\BP_FeuDeCheminée.uasset: [Compiler] SetIntensity  : unable to determine expected signature - is the delegate pin connected?
+[2022.05.08-16.30.46:865][639]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\DadInteractions\BP_FeuDeCheminée.uasset: [Compiler] Could not find an event-dispatcher named "ResetFire" in 'BP_PereManager_C'.
+Make sure 'BP_PereManager_C' has been compiled for  Bind Event to Reset Fire
+[2022.05.08-16.30.46:865][639]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\DadInteractions\BP_FeuDeCheminée.uasset: [Compiler] Failed to create property K2Node_CreateDelegate_OutputDelegate from  <None>  due to a bad or unknown type (Delegate)
+[2022.05.08-16.30.46:865][639]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\DadInteractions\BP_FeuDeCheminée.uasset: [Compiler] SetIntensity  Signature Error: Unable to determine expected signature - is the delegate pin connected?
+[2022.05.08-16.30.46:936][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.05.08-16.31.21:670][512]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.31.21:673][512]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\DadInteractions\BP_FeuDeCheminée.uasset: [Compiler] ResetIntensity  : unable to determine expected signature - is the delegate pin connected?
+[2022.05.08-16.31.21:673][512]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\DadInteractions\BP_FeuDeCheminée.uasset: [Compiler] Could not find an event-dispatcher named "ResetFire" in 'BP_PereManager_C'.
+Make sure 'BP_PereManager_C' has been compiled for  Bind Event to Reset Fire
+[2022.05.08-16.31.21:673][512]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\DadInteractions\BP_FeuDeCheminée.uasset: [Compiler] Failed to create property K2Node_CreateDelegate_OutputDelegate from  <None>  due to a bad or unknown type (Delegate)
+[2022.05.08-16.31.21:673][512]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\BluePrint\DadInteractions\BP_FeuDeCheminée.uasset: [Compiler] ResetIntensity  Signature Error: Unable to determine expected signature - is the delegate pin connected?
+[2022.05.08-16.31.21:746][512]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.05.08-16.31.45:204][203]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-16.31.45:316][203]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.05.08-16.31.51:979][956]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.31.52:084][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.05.08-16.32.19:539][986]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.32.19:617][986]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.05.08-16.32.49:797][188]LogEditorViewport: Clicking on Actor (LMB): BP_FeuDeCheminée_C (BP_FeuDeCheminée)
+[2022.05.08-16.32.54:993][718]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: C68790A1D75BCA030A28E05D7A897A6781FD5931), compiling. 
+[2022.05.08-16.32.55:187][718]LogShaderCompilers: Display: Submitted 60 shader compile jobs with 'Low' priority
+[2022.05.08-16.32.56:181][718]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2022.05.08-16.32.56:181][718]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2022.05.08-16.32.56:182][718]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2022.05.08-16.32.56:182][718]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2022.05.08-16.32.56:182][718]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.05.08-16.32.56:189][718]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.05.08-16.32.56:207][718]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.05.08-16.32.56:219][718]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.05.08-16.33.06:994][855]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2022.05.08-16.33.06:994][855]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.08-16.33.06:994][855]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.05.08-16.33.06:994][855]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.08-16.33.06:994][855]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.08-16.33.06:994][855]LogShaderCompilers: Display: Total job queries 64, among them cache hits 0 (0.00%)
+[2022.05.08-16.33.06:994][855]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 16 distinct outputs (80.00%)
+[2022.05.08-16.33.06:994][855]LogShaderCompilers: Display: RAM used: 0.11 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.03%
+[2022.05.08-16.33.06:994][855]LogShaderCompilers: Display: ================================================
+[2022.05.08-16.33.07:273][880]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.05.08-16.33.07:273][880]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.08-16.33.07:345][888]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2022.05.08-16.33.07:345][888]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.08-16.33.07:785][938]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2022.05.08-16.33.07:785][938]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.05.08-16.33.08:296][998]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2022.05.08-16.33.08:296][998]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.05.08-16.33.14:395][669]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.05.08-16.33.14:395][669]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.05.08-16.33.14:980][735]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.05.08-16.33.14:980][735]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.08-16.33.15:465][791]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2022.05.08-16.33.15:465][791]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.08-16.33.15:733][822]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.05.08-16.33.15:733][822]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.08-16.33.19:475][209]LogNiagara: Compiling System NiagaraSystem /Game/Assets/FX/NS_fire.NS_fire took 24.070965 sec (time since issued), 93.036072 sec (combined shader worker time).
+[2022.05.08-16.33.39:827][475]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.08-16.33.41:083][616]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.33.41:180][616]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.05.08-16.34.02:337][961]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.08-16.34.06:174][403]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.34.06:270][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.05.08-16.35.24:008][106]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.35.24:128][106]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.05.08-16.35.44:004][358]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.35.44:094][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.05.08-16.35.57:221][863]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/BP_FeuDeCheminée9DCB92604D56FA1FAAE6C88D3D4EE3CB.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/BluePrint/DadInteractions/BP_FeuDeCheminée.uasset'
+[2022.05.08-16.35.57:244][863]AssetCheck: New page: Asset Save: BP_FeuDeCheminée
+[2022.05.08-16.35.57:244][863]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/DadInteractions/BP_FeuDeCheminée.BP_FeuDeCheminée
+[2022.05.08-16.35.59:808][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.05.08-16.36.00:866][128]LogSlate: Window 'Save Content' being destroyed
+[2022.05.08-16.36.00:890][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Interfaces/BP_InterfaceIA" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/BluePrint/Interfaces/BP_InterfaceIA.uasset" SILENT=true
+[2022.05.08-16.36.00:893][128]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/BP_InterfaceIAB5E8D2BC4F01FA0248DF4DBCE2A65D22.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/BluePrint/Interfaces/BP_InterfaceIA.uasset'
+[2022.05.08-16.36.00:895][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_PereManager" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/BP_PereManager.uasset" SILENT=true
+[2022.05.08-16.36.00:950][128]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/BP_PereManagerFDBAA2094400FEE1A2A8D78EDA84156F.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/BP_PereManager.uasset'
+[2022.05.08-16.36.00:953][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.08-16.36.00:996][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.05.08-16.36.01:330][128]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/MaisonV27B0B54864D7424F58EA91FA1BC0C48D6.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.05.08-16.36.01:357][128]LogFileHelpers: Saving map 'MaisonV2' took 0.404
+[2022.05.08-16.36.01:357][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereFauteil/PB_PereFauteil" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/PereFauteil/PB_PereFauteil.uasset" SILENT=true
+[2022.05.08-16.36.01:375][128]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/PB_PereFauteil0F44873D4828D5789E27C8B6FF2B39A8.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/PereFauteil/PB_PereFauteil.uasset'
+[2022.05.08-16.36.01:387][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Iteractibles/Window" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/BluePrint/Iteractibles/Window.uasset" SILENT=true
+[2022.05.08-16.36.01:426][128]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/WindowB13CEE78493EDFC7B2DB029A1D8E69B7.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/BluePrint/Iteractibles/Window.uasset'
+[2022.05.08-16.36.01:442][128]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.08-16.36.01:442][128]LogContentValidation: Display: Validating Blueprint /Game/AI/PereFauteil/PB_PereFauteil.PB_PereFauteil
+[2022.05.08-16.36.01:442][128]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Interfaces/BP_InterfaceIA.BP_InterfaceIA
+[2022.05.08-16.36.01:442][128]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Iteractibles/Window.Window
+[2022.05.08-16.36.01:442][128]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_PereManager.BP_PereManager
+[2022.05.08-16.36.01:442][128]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.05.08-16.36.03:123][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.08-16.36.03:167][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.05.08-16.36.03:505][300]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/MaisonV288F1EC8C4706820A6E9EF48D73D0B9B3.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.05.08-16.36.03:533][300]AssetCheck: New page: Asset Save: MaisonV2
+[2022.05.08-16.36.03:533][300]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.05.08-16.36.52:291][995]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.08-16.36.53:221][ 93]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.36.53:309][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.05.08-16.37.14:091][461]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.37.14:178][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.05.08-16.37.17:089][773]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/BP_FeuDeCheminée89A4DEE44A1E5584B443DEAB936E78EB.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/BluePrint/DadInteractions/BP_FeuDeCheminée.uasset'
+[2022.05.08-16.37.17:104][773]AssetCheck: New page: Asset Save: BP_FeuDeCheminée
+[2022.05.08-16.37.17:104][773]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/DadInteractions/BP_FeuDeCheminée.BP_FeuDeCheminée
+[2022.05.08-16.37.19:313][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.05.08-16.37.21:182][  1]LogSlate: Window 'Save Content' being destroyed
+[2022.05.08-16.37.21:210][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.08-16.37.21:251][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.05.08-16.37.21:586][  1]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/MaisonV269DFA331424FC624C81F57B0FB04062B.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.05.08-16.37.21:601][  1]LogFileHelpers: Saving map 'MaisonV2' took 0.392
+[2022.05.08-16.37.21:613][  1]AssetCheck: New page: Asset Save: MaisonV2
+[2022.05.08-16.37.21:613][  1]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.05.08-16.38.51:660][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_PereManager" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/BP_PereManager.uasset" SILENT=true
+[2022.05.08-16.38.51:714][559]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/BP_PereManagerA9AE618E4D7D1C55C3A5558B0646B30B.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/BP_PereManager.uasset'
+[2022.05.08-16.38.51:730][559]AssetCheck: New page: Asset Save: BP_PereManager
+[2022.05.08-16.38.51:730][559]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_PereManager.BP_PereManager
+[2022.05.08-16.39.46:985][778]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.39.47:100][778]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.05.08-16.39.58:816][ 87]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.39.58:904][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.05.08-16.40.20:132][394]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-16.40.20:248][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.05.08-16.40.55:023][ 41]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.08-16.42.05:750][666]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.08-16.42.13:656][520]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.08-16.42.18:789][ 64]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.08-16.42.56:628][972]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.08-16.43.36:045][236]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-16.43.36:189][236]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2022.05.08-16.44.20:171][120]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-16.44.20:182][120]LogBlueprint: Error: [AssetLog] C:\Users\Tom\Desktop\Code_Algo\WisigothFinal\CandleUnreal\Content\AI\BP_PereManager.uasset: [Compiler] This blueprint (self) is not a GameMode, therefore ' Target ' must have a connection.
+[2022.05.08-16.44.20:266][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.05.08-16.48.05:058][448]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-16.48.05:182][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.05.08-16.48.39:527][258]BlueprintLog: New page: Compile BP_FeuDeCheminée
+[2022.05.08-16.48.39:638][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.05.08-16.48.44:460][801]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-16.48.44:587][801]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.05.08-16.48.58:997][461]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-16.48.59:101][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2022.05.08-16.49.11:094][782]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.08-16.49.11:198][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.05.08-16.49.42:128][387]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.05.08-16.49.42:465][387]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/MaisonV2_Auto213EEB1EA46982FAC6418128A37522568.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/Autosaves/Game/Levels/MaisonV2_Auto2.umap'
+[2022.05.08-16.49.42:469][387]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MaisonV2' took 0.389
+[2022.05.08-16.49.42:469][387]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.389
+[2022.05.08-16.49.42:470][387]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_PereManager] ([2] browsable assets)...
+[2022.05.08-16.49.42:470][387]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_PereManager]
+[2022.05.08-16.49.42:470][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_PereManager" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/Autosaves/Game/AI/BP_PereManager_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.05.08-16.49.42:529][387]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/BP_PereManager_Auto278BFF6CD440103E9F74A76AA62F00575.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/Autosaves/Game/AI/BP_PereManager_Auto2.uasset'
+[2022.05.08-16.49.42:531][387]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/DadInteractions/BP_FeuDeCheminée] ([2] browsable assets)...
+[2022.05.08-16.49.42:531][387]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/DadInteractions/BP_FeuDeCheminée]
+[2022.05.08-16.49.42:548][387]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/BP_FeuDeCheminée_Auto2C6E4B6FF40DB2BB61BE7AD902A046911.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/Autosaves/Game/BluePrint/DadInteractions/BP_FeuDeCheminée_Auto2.uasset'
+[2022.05.08-16.49.42:549][387]LogFileHelpers: Auto-saving content packages took 0.080
+[2022.05.08-16.49.50:337][220]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.MaisonV2
+[2022.05.08-16.50.00:791][413]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-16.50.00:792][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-16.50.33:394][674]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/3DMenu/BP_MainMenu.BP_MainMenu
+[2022.05.08-16.50.46:986][240]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-16.50.46:986][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-16.50.49:560][501]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/3DMenu/MainMenuGamemode.MainMenuGamemode
+[2022.05.08-16.50.53:101][861]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-16.50.53:101][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-16.50.53:173][861]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/3DMenu/MainMenuGamemode.MainMenuGamemode
+[2022.05.08-16.50.55:309][ 71]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-16.50.55:309][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-16.50.58:160][355]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/3DMenu/BP_MainMenu.BP_MainMenu
+[2022.05.08-16.51.02:532][801]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-16.51.02:532][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-16.51.08:311][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.08-16.51.08:378][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.05.08-16.51.08:720][134]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/MaisonV2DE9AE3014E9D7837523249A1F8E1C2CB.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.05.08-16.51.08:748][134]AssetCheck: New page: Asset Save: MaisonV2
+[2022.05.08-16.51.08:749][134]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.05.08-16.51.09:599][215]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.05.08-16.51.10:715][215]LogSlate: Window 'Save Content' being destroyed
+[2022.05.08-16.51.10:777][215]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/BP_FeuDeCheminéeDC0356BC49C279B3878473B81B30ED01.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/BluePrint/DadInteractions/BP_FeuDeCheminée.uasset'
+[2022.05.08-16.51.10:779][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_PereManager" FILE="C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/BP_PereManager.uasset" SILENT=true
+[2022.05.08-16.51.10:836][215]LogSavePackage: Moving 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Saved/BP_PereManagerA2777C0B467032B127A8949C41797BE5.tmp' to 'C:/Users/Tom/Desktop/Code_Algo/WisigothFinal/CandleUnreal/Content/AI/BP_PereManager.uasset'
+[2022.05.08-16.51.10:850][215]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.08-16.51.10:850][215]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_PereManager.BP_PereManager
+[2022.05.08-16.51.10:850][215]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/DadInteractions/BP_FeuDeCheminée.BP_FeuDeCheminée
