@@ -1970,3 +1970,180 @@ Are you sure?
 [2022.05.08-16.23.04:831][ 36]MapCheck: Warning: BureauMesh_65 Static mesh actor has NULL StaticMesh property 
 [2022.05.08-16.23.04:831][ 36]MapCheck: Warning: pereld_23 Static mesh actor has NULL StaticMesh property 
 [2022.05.08-16.23.04:831][ 36]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0,952ms to complete.
+[2022.05.08-16.24.52:711][ 73]LogSlate: Window 'Message Log' being destroyed
+[2022.05.08-16.24.52:717][ 73]LogSlate: Window 'Message Log' being destroyed
+[2022.05.08-16.25.46:191][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/CuisineBasMesh" FILE="../../../../../Cours/Github/CandleUnreal/Content/Assets/CuisineBasMesh.uasset" SILENT=true
+[2022.05.08-16.25.46:215][211]LogSavePackage: Moving '../../../../../Cours/Github/CandleUnreal/Saved/CuisineBasMesh66AED41E4692BDA6F853C7A8EF450C0A.tmp' to '../../../../../Cours/Github/CandleUnreal/Content/Assets/CuisineBasMesh.uasset'
+[2022.05.08-16.25.46:224][211]AssetCheck: New page: Asset Save: CuisineBasMesh
+[2022.05.08-16.25.46:224][211]LogContentValidation: Display: Validating StaticMesh /Game/Assets/CuisineBasMesh.CuisineBasMesh
+[2022.05.08-16.25.50:614][590]MapCheck: New page: Map Check
+[2022.05.08-16.25.50:625][590]Cmd: MAP REBUILD ALLVISIBLE
+[2022.05.08-16.25.50:625][590]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.05.08-16.25.51:781][590]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.SprinteInteract_4.RenderComponent)
+[2022.05.08-16.25.51:781][590]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.interract_Sprite_7.RenderComponent)
+[2022.05.08-16.25.51:782][590]LogWorld: UWorld::CleanupWorld for MaisonV2, bSessionEnded=true, bCleanupResources=false
+[2022.05.08-16.25.51:930][590]LightingResults: New page: Lighting Build - 8 mai 2022 à 20:25:51
+[2022.05.08-16.25.51:942][590]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.05.08-16.25.51:946][590]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.05.08-16.25.51:946][590]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.05.08-16.25.51:947][590]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.05.08-16.25.51:947][590]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7752
+[2022.05.08-16.25.56:523][590]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.05.08-16.25.56:523][590]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.05.08-16.25.56:523][590]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.05.08-16.25.56:523][590]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.05.08-16.25.56:523][590]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.05.08-16.25.56:523][590]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.05.08-16.25.56:715][590]LogEditorBuildUtils: Build time 0:06
+[2022.05.08-16.25.56:827][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.05.08-16.25.59:394][733]LightingResults: Warning: RembardesMesh Object has overlapping UVs.
+[2022.05.08-16.25.59:408][734]LightingResults: RembardesMesh Lightmap UV are overlapping by 5.7%. Please adjust content - Enable Error Coloring to visualize.
+[2022.05.08-16.25.59:477][740]Job is a success!
+[2022.05.08-16.25.59:585][741]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.020s
+[2022.05.08-16.25.59:585][741]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.05.08-16.25.59:585][741]LogVolumetricLightmapImport:      BrickData (all levels) 1.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.05.08-16.25.59:585][741]LogVolumetricLightmapImport:      Bricks at depth
+[2022.05.08-16.25.59:585][741]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2022.05.08-16.25.59:585][741]LogVolumetricLightmapImport:          1: 3.9% covering 15.6% of volume
+[2022.05.08-16.25.59:585][741]LogVolumetricLightmapImport:          2: 95.7% covering 6.0% of volume
+[2022.05.08-16.25.59:585][741]LogVolumetricLightmapImport:      Bricks in each level
+[2022.05.08-16.25.59:585][741]LogVolumetricLightmapImport:          MaisonV2 			 256 bricks 	 100.0% (Persistent Level)
+[2022.05.08-16.25.59:955][741]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.05.08-16.25.59:955][741]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 512X512)
+[2022.05.08-16.25.59:955][741]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.05.08-16.25.59:955][741]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 512X512)
+[2022.05.08-16.25.59:955][741]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 64X64)
+[2022.05.08-16.25.59:955][741]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 64X64)
+[2022.05.08-16.25.59:955][741]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.08-16.25.59:955][741]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.08-16.25.59:955][741]Lightmass on DESKTOP-2G3K9JT: 2.70 sec total, 183 ms importing, 33 ms setup, 437 ms photons, 2.00 sec processing, 0 ms extra exporting [1096/1096 mappings]. Threads: 46.1 sec total, 14.3 sec processing.
+[2022.05.08-16.25.59:965][741]LogStaticLightingSystem: MaisonV2_BuiltData storing lightmap data for 90 meshes in 3 LightmapResourceClusters (30.0 Meshes per cluster).
+[2022.05.08-16.25.59:992][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.05.08-16.26.00:051][741]LogStaticLightingSystem: Illumination: 8.07 sec (76 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.05.08-16.26.00:051][741]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (0.5 MB streaming, 2.0 MB non-streaming), 6 textures
+[2022.05.08-16.26.00:051][741]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.05.08-16.26.00:534][741]DumpUnbuiltLightIteractions
+[2022.05.08-16.26.00:534][741]Lights with unbuilt interactions: 0
+[2022.05.08-16.26.00:534][741]
+[2022.05.08-16.26.00:534][741]Primitives with unbuilt interactions: 0
+[2022.05.08-16.26.00:582][741]LogTexture: Display: Building textures: NewReflectionComponentTextureF00A240E4FBF1EE9796C6FAAFE427084 (BGRA8, 128X128)
+[2022.05.08-16.26.00:610][742]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.05.08-16.26.00:610][742]MapCheck: New page: MaisonV2 - 8 mai 2022 à 20:26:00
+[2022.05.08-16.26.00:610][742]MapCheck: Warning: BureauMesh_65 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-16.26.00:610][742]MapCheck: Warning: pereld_23 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-16.26.00:611][742]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 1,003ms to complete.
+[2022.05.08-16.26.24:086][965]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/RembardesMesh.RembardesMesh
+[2022.05.08-16.26.32:429][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/RembardesMesh" FILE="../../../../../Cours/Github/CandleUnreal/Content/Assets/RembardesMesh.uasset" SILENT=true
+[2022.05.08-16.26.32:456][911]LogSavePackage: Moving '../../../../../Cours/Github/CandleUnreal/Saved/RembardesMesh0DBF8DE243FCCF5727586EBBDA06F4DA.tmp' to '../../../../../Cours/Github/CandleUnreal/Content/Assets/RembardesMesh.uasset'
+[2022.05.08-16.26.32:466][911]AssetCheck: New page: Asset Save: RembardesMesh
+[2022.05.08-16.26.32:466][911]LogContentValidation: Display: Validating StaticMesh /Game/Assets/RembardesMesh.RembardesMesh
+[2022.05.08-16.26.37:391][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/CuisineBasMesh" FILE="../../../../../Cours/Github/CandleUnreal/Content/Assets/CuisineBasMesh.uasset" SILENT=true
+[2022.05.08-16.26.37:415][459]LogSavePackage: Moving '../../../../../Cours/Github/CandleUnreal/Saved/CuisineBasMesh1F3021794F5484B83DE455BCBFEE2BE4.tmp' to '../../../../../Cours/Github/CandleUnreal/Content/Assets/CuisineBasMesh.uasset'
+[2022.05.08-16.26.37:422][459]AssetCheck: New page: Asset Save: CuisineBasMesh
+[2022.05.08-16.26.37:422][459]LogContentValidation: Display: Validating StaticMesh /Game/Assets/CuisineBasMesh.CuisineBasMesh
+[2022.05.08-16.26.38:409][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/RembardesMesh" FILE="../../../../../Cours/Github/CandleUnreal/Content/Assets/RembardesMesh.uasset" SILENT=true
+[2022.05.08-16.26.38:432][558]LogSavePackage: Moving '../../../../../Cours/Github/CandleUnreal/Saved/RembardesMeshA6F6BE2E425751EE0BC7E0A1BDE0857E.tmp' to '../../../../../Cours/Github/CandleUnreal/Content/Assets/RembardesMesh.uasset'
+[2022.05.08-16.26.38:446][558]AssetCheck: New page: Asset Save: RembardesMesh
+[2022.05.08-16.26.38:446][558]LogContentValidation: Display: Validating StaticMesh /Game/Assets/RembardesMesh.RembardesMesh
+[2022.05.08-16.26.47:667][825]MapCheck: New page: Map Check
+[2022.05.08-16.26.47:680][825]Cmd: MAP REBUILD ALLVISIBLE
+[2022.05.08-16.26.47:680][825]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.05.08-16.26.48:835][825]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.SprinteInteract_4.RenderComponent)
+[2022.05.08-16.26.48:835][825]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.interract_Sprite_7.RenderComponent)
+[2022.05.08-16.26.48:836][825]LogWorld: UWorld::CleanupWorld for MaisonV2, bSessionEnded=true, bCleanupResources=false
+[2022.05.08-16.26.48:988][825]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.05.08-16.26.48:989][825]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.05.08-16.26.48:989][825]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.05.08-16.26.48:989][825]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.05.08-16.26.49:010][825]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.02s
+[2022.05.08-16.26.49:019][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.05.08-16.26.49:027][825]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2022.05.08-16.26.49:029][825]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2022.05.08-16.26.49:033][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.05.08-16.26.49:052][825]LightingResults: New page: Lighting Build - 8 mai 2022 à 20:26:49
+[2022.05.08-16.26.49:064][825]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.05.08-16.26.49:068][825]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.05.08-16.26.49:068][825]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.05.08-16.26.49:069][825]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.05.08-16.26.49:069][825]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7752
+[2022.05.08-16.26.53:645][825]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.05.08-16.26.53:646][825]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.05.08-16.26.53:646][825]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.05.08-16.26.53:646][825]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.05.08-16.26.53:646][825]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.05.08-16.26.53:646][825]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.05.08-16.26.53:890][825]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.05.08-16.26.53:890][825]MapCheck: New page: MaisonV2 - 8 mai 2022 à 20:26:53
+[2022.05.08-16.26.53:891][825]MapCheck: Warning: BureauMesh_65 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-16.26.53:891][825]MapCheck: Warning: pereld_23 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-16.26.53:891][825]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 1ms to complete.
+[2022.05.08-16.26.53:893][825]LogEditorBuildUtils: Build time 0:06
+[2022.05.08-16.26.53:913][825]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.08-16.26.53:913][825]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.08-16.26.53:913][825]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.08-16.26.53:913][825]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.05.08-16.26.53:913][825]LogShaderCompilers: Display: ================================================
+[2022.05.08-16.26.54:044][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.05.08-16.26.56:734][947]Job is a success!
+[2022.05.08-16.26.56:842][948]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.019s
+[2022.05.08-16.26.56:842][948]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.05.08-16.26.56:842][948]LogVolumetricLightmapImport:      BrickData (all levels) 1.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.05.08-16.26.56:842][948]LogVolumetricLightmapImport:      Bricks at depth
+[2022.05.08-16.26.56:842][948]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2022.05.08-16.26.56:842][948]LogVolumetricLightmapImport:          1: 3.9% covering 15.6% of volume
+[2022.05.08-16.26.56:842][948]LogVolumetricLightmapImport:          2: 95.7% covering 6.0% of volume
+[2022.05.08-16.26.56:842][948]LogVolumetricLightmapImport:      Bricks in each level
+[2022.05.08-16.26.56:842][948]LogVolumetricLightmapImport:          MaisonV2 			 256 bricks 	 100.0% (Persistent Level)
+[2022.05.08-16.26.57:198][948]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.05.08-16.26.57:198][948]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.05.08-16.26.57:198][948]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 512X512)
+[2022.05.08-16.26.57:198][948]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 64X64)
+[2022.05.08-16.26.57:198][948]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 512X512)
+[2022.05.08-16.26.57:199][948]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 64X64)
+[2022.05.08-16.26.57:199][948]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.08-16.26.57:199][948]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.08-16.26.57:199][948]Lightmass on DESKTOP-2G3K9JT: 2.70 sec total, 185 ms importing, 35 ms setup, 431 ms photons, 2.01 sec processing, 0 ms extra exporting [1096/1096 mappings]. Threads: 46.2 sec total, 14.3 sec processing.
+[2022.05.08-16.26.57:202][948]LogStaticLightingSystem: MaisonV2_BuiltData storing lightmap data for 90 meshes in 3 LightmapResourceClusters (30.0 Meshes per cluster).
+[2022.05.08-16.26.57:227][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.05.08-16.26.57:286][948]LogStaticLightingSystem: Illumination: 8.18 sec (81 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.05.08-16.26.57:286][948]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (0.5 MB streaming, 2.0 MB non-streaming), 6 textures
+[2022.05.08-16.26.57:286][948]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.05.08-16.26.57:653][948]DumpUnbuiltLightIteractions
+[2022.05.08-16.26.57:653][948]Lights with unbuilt interactions: 0
+[2022.05.08-16.26.57:653][948]
+[2022.05.08-16.26.57:653][948]Primitives with unbuilt interactions: 0
+[2022.05.08-16.26.57:708][948]LogTexture: Display: Building textures: NewReflectionComponentTextureF00A240E4FBF1EE9796C6FAAFE427084 (BGRA8, 128X128)
+[2022.05.08-16.26.57:738][949]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.05.08-16.26.57:738][949]MapCheck: New page: MaisonV2 - 8 mai 2022 à 20:26:57
+[2022.05.08-16.26.57:738][949]MapCheck: Warning: BureauMesh_65 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-16.26.57:738][949]MapCheck: Warning: pereld_23 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-16.26.57:739][949]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 1,019ms to complete.
+[2022.05.08-16.27.17:103][836]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.05.08-16.27.18:772][ 26]Cmd: DELETE
+[2022.05.08-16.27.18:935][ 26]Cmd: ACTOR DELETE
+[2022.05.08-16.27.18:952][ 26]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.08-16.27.18:957][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.05.08-16.27.18:960][ 26]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.05.08-16.27.19:934][134]Cmd: TRANSACTION UNDO
+[2022.05.08-16.27.19:934][134]LogEditorTransaction: Undo Delete Actors
+[2022.05.08-16.27.22:030][314]Cmd: DELETE
+[2022.05.08-16.27.22:039][314]Cmd: ACTOR DELETE
+[2022.05.08-16.27.22:056][314]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.08-16.27.22:060][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.05.08-16.27.22:061][314]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.05.08-16.27.27:948][949]Cmd: DELETE
+[2022.05.08-16.27.27:957][949]Cmd: ACTOR DELETE
+[2022.05.08-16.27.27:974][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.08-16.27.27:978][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.08-16.27.27:980][949]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.05.08-16.27.38:746][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.08-16.27.40:292][806]LogSlate: Window 'Save Content' being destroyed
+[2022.05.08-16.27.40:317][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="../../../../../Cours/Github/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.08-16.27.40:321][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.05.08-16.27.40:520][806]LogSavePackage: Moving '../../../../../Cours/Github/CandleUnreal/Saved/MaisonV2A2C8FFF044F3EAB8071853B546BED8E2.tmp' to '../../../../../Cours/Github/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.05.08-16.27.40:532][806]LogFileHelpers: Saving map 'MaisonV2' took 0.216
+[2022.05.08-16.27.40:532][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2_BuiltData" FILE="../../../../../Cours/Github/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset" SILENT=true
+[2022.05.08-16.27.40:579][806]LogSavePackage: Moving '../../../../../Cours/Github/CandleUnreal/Saved/MaisonV2_BuiltData8C269EAA4B5E1B3070C2E0A2EBE81EFC.tmp' to '../../../../../Cours/Github/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset'
+[2022.05.08-16.27.40:590][806]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.08-16.27.40:590][806]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.05.08-16.27.40:591][806]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MaisonV2_BuiltData.MaisonV2_BuiltData
