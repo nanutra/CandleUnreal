@@ -1080,3 +1080,448 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.19-11.24.17:957][134]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_PereManager.BP_PereManager
 [2022.05.19-11.24.17:957][134]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
 [2022.05.19-11.24.17:957][134]LogContentValidation: Display: Validating World /Game/Levels/LvlHabillé.LvlHabillé
+[2022.05.19-11.25.30:782][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereEnigmeFin/IA_Pere_EnigmeFin.uasset" SILENT=true
+[2022.05.19-11.25.30:816][434]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/IA_Pere_EnigmeFin6DE0D4E145D566DB816325881CB33DBF.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereEnigmeFin/IA_Pere_EnigmeFin.uasset'
+[2022.05.19-11.25.30:830][434]AssetCheck: New page: Asset Save: IA_Pere_EnigmeFin
+[2022.05.19-11.25.30:830][434]LogContentValidation: Display: Validating Blueprint /Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin.IA_Pere_EnigmeFin
+[2022.05.19-11.25.47:551][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereEnigmeFin/IA_Pere_EnigmeFin.uasset" SILENT=true
+[2022.05.19-11.25.47:585][220]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/IA_Pere_EnigmeFin6188EF85440AF800D379F9B1BD7C43F5.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereEnigmeFin/IA_Pere_EnigmeFin.uasset'
+[2022.05.19-11.25.47:598][220]AssetCheck: New page: Asset Save: IA_Pere_EnigmeFin
+[2022.05.19-11.25.47:598][220]LogContentValidation: Display: Validating Blueprint /Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin.IA_Pere_EnigmeFin
+[2022.05.19-11.25.56:951][158]BlueprintLog: New page: Compile IA_Pere_EnigmeFin
+[2022.05.19-11.25.57:019][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.05.19-11.27.45:344][829]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.19-11.27.45:420][829]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.05.19-11.34.16:322][412]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.05.19-11.34.16:324][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/Levels/MaisonV2_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.19-11.34.16:548][412]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/MaisonV2_Auto18581EE05469A96D840E0AE9E4924AED3.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/Levels/MaisonV2_Auto1.umap'
+[2022.05.19-11.34.16:551][412]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MaisonV2' took 0.263
+[2022.05.19-11.34.16:551][412]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.263
+[2022.05.19-11.34.16:551][412]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_PereManager] ([2] browsable assets)...
+[2022.05.19-11.34.16:551][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_PereManager]
+[2022.05.19-11.34.16:551][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_PereManager" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/AI/BP_PereManager_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.05.19-11.34.16:610][412]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/BP_PereManager_Auto1EFC539A04B05A3D1670E01B1F94F8F1E.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/AI/BP_PereManager_Auto1.uasset'
+[2022.05.19-11.34.16:611][412]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin] ([2] browsable assets)...
+[2022.05.19-11.34.16:611][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin]
+[2022.05.19-11.34.16:644][412]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/IA_Pere_EnigmeFin_Auto1F50ACAEC420F52D0BE1373AE80627592.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin_Auto1.uasset'
+[2022.05.19-11.34.16:645][412]LogFileHelpers: Auto-saving content packages took 0.094
+[2022.05.19-11.40.21:029][202]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.19-11.40.21:102][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.05.19-11.40.34:734][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_PereManager" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/BP_PereManager.uasset" SILENT=true
+[2022.05.19-11.40.34:792][145]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/BP_PereManagerA14A1702419771E50A42F38D7284FF23.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/BP_PereManager.uasset'
+[2022.05.19-11.40.34:806][145]AssetCheck: New page: Asset Save: BP_PereManager
+[2022.05.19-11.40.34:806][145]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_PereManager.BP_PereManager
+[2022.05.19-11.44.16:926][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.05.19-11.44.16:928][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/Levels/MaisonV2_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.19-11.44.17:170][618]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/MaisonV2_Auto2283678F04B57BD17A17AB29525C30437.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/Levels/MaisonV2_Auto2.umap'
+[2022.05.19-11.44.17:174][618]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MaisonV2' took 0.279
+[2022.05.19-11.44.17:174][618]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.279
+[2022.05.19-11.53.29:430][265]LogSlate: Window 'BP_Player' being destroyed
+[2022.05.19-11.53.29:432][265]LogSlate: Window 'BP_Player' being destroyed
+[2022.05.19-11.53.29:440][265]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-11.53.29:440][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-11.53.30:554][268]LogSlate: Window 'BP_PereManager' being destroyed
+[2022.05.19-11.53.30:557][268]LogSlate: Window 'BP_PereManager' being destroyed
+[2022.05.19-11.53.30:562][268]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.19-11.53.30:562][268]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-11.53.30:562][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-11.53.49:094][964]LogActorFactory: Actor Factory created pere_ld_scale1__2_
+[2022.05.19-11.53.49:551][  9]LogActorFactory: Actor Factory created pere_ld_scale1__2_
+[2022.05.19-11.54.05:002][771]Cmd: TRANSACTION UNDO
+[2022.05.19-11.54.05:002][771]LogEditorTransaction: Undo Create Actors
+[2022.05.19-11.54.05:773][811]Cmd: TRANSACTION UNDO
+[2022.05.19-11.54.05:773][811]LogEditorTransaction: Undo Create Pin Link
+[2022.05.19-11.54.35:179][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.05.19-11.54.35:190][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/Levels/MaisonV2_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.19-11.54.35:411][374]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/MaisonV2_Auto3F8E1027042A758BC5A345686D7D17467.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/Levels/MaisonV2_Auto3.umap'
+[2022.05.19-11.54.35:414][374]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MaisonV2' took 0.269
+[2022.05.19-11.54.35:414][374]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.269
+[2022.05.19-11.54.35:415][374]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_PereManager] ([2] browsable assets)...
+[2022.05.19-11.54.35:415][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_PereManager]
+[2022.05.19-11.54.35:415][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_PereManager" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/AI/BP_PereManager_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.05.19-11.54.35:474][374]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/BP_PereManager_Auto39AB5093845205C64CAF8C6BD052B8816.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/AI/BP_PereManager_Auto3.uasset'
+[2022.05.19-11.54.35:474][374]LogFileHelpers: Auto-saving content packages took 0.059
+[2022.05.19-11.55.30:831][417]LogStaticMesh: Building static mesh AI_pere...
+[2022.05.19-11.55.34:023][417]LogStaticMesh: Built static mesh [3.19s] /Game/Assets/Père/PereEmma/AI_pere.AI_pere
+[2022.05.19-11.55.35:180][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.05.19-11.55.40:951][417]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.19-11.55.41:287][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.05.19-11.55.41:326][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.19-11.55.41:356][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.05.19-11.55.41:379][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.05.19-11.55.43:928][675]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\game2\Desktop\PereMidifiéVaillant.fbx)
+[2022.05.19-11.55.44:037][675]LogFbx: Loading FBX Scene from C:\Users\game2\Desktop\PereMidifiéVaillant.fbx
+[2022.05.19-11.55.44:133][675]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.19-11.55.48:226][675]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.19-11.55.48:262][675]LogFbx: Display: Triangulating static mesh Objet002
+[2022.05.19-11.55.49:871][675]LogStaticMesh: Building static mesh PereMidifiéVaillant...
+[2022.05.19-11.55.50:566][675]LogStaticMesh: Built static mesh [0.70s] /Game/Assets/Père/PereEmma/PereMidifiéVaillant.PereMidifiéVaillant
+[2022.05.19-11.55.50:889][675]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'AI_hdPere_default' was renamed 'AI_hdPere_default_ncl1_1' 
+[2022.05.19-11.55.54:389][ 44]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-11.55.54:393][ 44]LogSlate: Window 'Message Log' being destroyed
+[2022.05.19-11.55.56:716][292]LogActorFactory: Actor Factory created PereMidifiéVaillant
+[2022.05.19-11.55.57:493][371]LogActorFactory: Actor Factory created PereMidifiéVaillant
+[2022.05.19-11.58.33:067][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PereMidifiéVaillant)
+[2022.05.19-11.58.33:926][522]Cmd: DELETE
+[2022.05.19-11.58.33:926][522]Cmd: ACTOR DELETE
+[2022.05.19-11.58.33:999][522]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.19-11.58.34:024][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.05.19-11.58.34:036][522]LogEditorActor: Deleted 1 Actors (0.109 secs)
+[2022.05.19-12.00.41:603][148]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_PereManager.BP_PereManager
+[2022.05.19-12.00.45:309][415]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.19-12.00.45:376][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.05.19-12.04.58:980][435]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.19-12.04.59:058][435]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.05.19-12.05.26:916][368]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.19-12.05.26:983][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.05.19-12.06.10:036][569]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.05.19-12.06.38:598][309]BlueprintLog: New page: Compile IA_Pere_EnigmeFin
+[2022.05.19-12.06.38:672][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.05.19-12.08.32:275][239]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(668)].
+[2022.05.19-12.08.32:336][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.05.19-12.08.32:339][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/Levels/MaisonV2_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.19-12.08.32:579][239]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/MaisonV2_Auto44A1E0806465C1D8C8BC4EB9493F292AB.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/Levels/MaisonV2_Auto4.umap'
+[2022.05.19-12.08.32:583][239]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MaisonV2' took 0.275
+[2022.05.19-12.08.32:583][239]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.275
+[2022.05.19-12.08.32:583][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_PereManager] ([2] browsable assets)...
+[2022.05.19-12.08.32:583][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_PereManager]
+[2022.05.19-12.08.32:583][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_PereManager" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/AI/BP_PereManager_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.05.19-12.08.32:643][239]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/BP_PereManager_Auto412F0927146FCB3A860A44FBAB669F813.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/AI/BP_PereManager_Auto4.uasset'
+[2022.05.19-12.08.32:643][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin] ([2] browsable assets)...
+[2022.05.19-12.08.32:643][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin]
+[2022.05.19-12.08.32:679][239]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/IA_Pere_EnigmeFin_Auto466BE44064AD690807E6CFB803F364C3E.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin_Auto4.uasset'
+[2022.05.19-12.08.32:679][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Père/PereEmma/PereMidifiéVaillant] ([1] browsable assets)...
+[2022.05.19-12.08.32:694][239]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Père/PereEmma/PereMidifiéVaillant.PereMidifiéVaillant]
+[2022.05.19-12.08.32:694][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Père/PereEmma/PereMidifiéVaillant]
+[2022.05.19-12.08.33:277][239]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/PereMidifiéVaillant_Auto4215DB4DD45285E8B4F1EA68DF2B3769E.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/Assets/Père/PereEmma/PereMidifiéVaillant_Auto4.uasset'
+[2022.05.19-12.08.33:278][239]LogFileHelpers: Auto-saving content packages took 0.695
+[2022.05.19-12.09.14:766][848]BlueprintLog: New page: Compile IA_Pere_EnigmeFin
+[2022.05.19-12.09.14:840][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.05.19-12.15.38:503][919]BlueprintLog: New page: Compile IA_Pere_EnigmeFin
+[2022.05.19-12.15.38:582][919]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.05.19-12.15.40:189][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereEnigmeFin/IA_Pere_EnigmeFin.uasset" SILENT=true
+[2022.05.19-12.15.40:225][ 56]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/IA_Pere_EnigmeFin7055B8AB461F041595A88FBD1E73F468.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereEnigmeFin/IA_Pere_EnigmeFin.uasset'
+[2022.05.19-12.15.40:241][ 56]AssetCheck: New page: Asset Save: IA_Pere_EnigmeFin
+[2022.05.19-12.15.40:241][ 56]LogContentValidation: Display: Validating Blueprint /Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin.IA_Pere_EnigmeFin
+[2022.05.19-12.16.18:444][725]BlueprintLog: New page: Compile IA_Pere_EnigmeFin
+[2022.05.19-12.16.18:518][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.05.19-12.17.14:329][852]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AAIController::RunBehaviorTree' [Le module spécifié est introuvable.]
+[2022.05.19-12.17.17:846][207]BlueprintLog: New page: Compile IA_Pere_EnigmeFin
+[2022.05.19-12.17.17:922][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.05.19-12.17.53:442][381]BlueprintLog: New page: Compile BP_PereManager
+[2022.05.19-12.17.53:523][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.05.19-12.18.08:854][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_PereManager" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/BP_PereManager.uasset" SILENT=true
+[2022.05.19-12.18.08:914][749]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/BP_PereManager94492D5449F985B63924A0BFA788445E.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/BP_PereManager.uasset'
+[2022.05.19-12.18.08:929][749]AssetCheck: New page: Asset Save: BP_PereManager
+[2022.05.19-12.18.08:929][749]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_PereManager.BP_PereManager
+[2022.05.19-12.18.11:356][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-12.18.11:384][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.05.19-12.18.11:632][949]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/MaisonV24E1F0F2140B53A687D8B28A05360BDE4.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.05.19-12.18.11:650][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2_BuiltData" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset" SILENT=true
+[2022.05.19-12.18.11:838][949]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/MaisonV2_BuiltDataE4334C774DA3E67D019F9F926FDC1517.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset'
+[2022.05.19-12.18.11:851][949]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-12.18.11:851][949]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MaisonV2_BuiltData.MaisonV2_BuiltData
+[2022.05.19-12.18.11:851][949]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.05.19-12.19.28:238][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereEnigmeFin/IA_Pere_EnigmeFin.uasset" SILENT=true
+[2022.05.19-12.19.28:280][479]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/IA_Pere_EnigmeFin7E042A8945C826497A635EA7BFBEC51A.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereEnigmeFin/IA_Pere_EnigmeFin.uasset'
+[2022.05.19-12.19.28:295][479]AssetCheck: New page: Asset Save: IA_Pere_EnigmeFin
+[2022.05.19-12.19.28:295][479]LogContentValidation: Display: Validating Blueprint /Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin.IA_Pere_EnigmeFin
+[2022.05.19-12.20.48:444][138]LogEditorViewport: Clicking on Actor (LMB): BP_Tele2_C (BP_Tele2)
+[2022.05.19-12.20.53:619][491]LogEditorViewport: Clicking on Actor (LMB): BP_LaveLinge_C (BP_LaveLinge)
+[2022.05.19-12.20.55:248][586]LogEditorViewport: Clicking on Actor (LMB): BP_MicroOnde_C (BP_Tele)
+[2022.05.19-12.21.46:833][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MeubleDeCuisineBasBlockoutMesh)
+[2022.05.19-12.22.04:864][630]LogEditorViewport: Clicking on Actor (LMB): BP_MicroOnde_C (BP_Tele)
+[2022.05.19-12.23.28:601][385]LogEditorViewport: Clicking on Actor (LMB): BP_Tele2_C (BP_Tele2)
+[2022.05.19-12.23.46:432][532]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/Iteractibles/BP_MicroOnde.BP_MicroOnde
+[2022.05.19-12.23.48:930][703]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-12.23.48:930][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-12.23.48:984][703]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/Iteractibles/BP_MicroOnde.BP_MicroOnde
+[2022.05.19-12.23.54:150][125]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-12.23.54:150][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-12.25.35:281][423]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.05.19-12.26.13:925][105]BlueprintLog: New page: Compile IA_Pere_EnigmeFin
+[2022.05.19-12.26.13:956][105]LogBlueprint: Error: [AssetLog] C:\Users\game2\Documents\GitHub\CandleUnreal\Content\AI\PereEnigmeFin\IA_Pere_EnigmeFin.uasset: [Compiler] The type of  Input  is undetermined.  Connect something to  Resolve Soft Reference  to imply a specific type.
+[2022.05.19-12.26.13:956][105]LogBlueprint: Error: [AssetLog] C:\Users\game2\Documents\GitHub\CandleUnreal\Content\AI\PereEnigmeFin\IA_Pere_EnigmeFin.uasset: [Compiler] The type of  Output  is undetermined.  Connect something to  Resolve Soft Reference  to imply a specific type.
+[2022.05.19-12.26.13:956][105]LogBlueprint: Error: [AssetLog] C:\Users\game2\Documents\GitHub\CandleUnreal\Content\AI\PereEnigmeFin\IA_Pere_EnigmeFin.uasset: [Compiler] Unexpected node type K2Node_ConvertAsset encountered at  Resolve Soft Reference
+[2022.05.19-12.26.13:957][105]LogBlueprint: Error: [AssetLog] C:\Users\game2\Documents\GitHub\CandleUnreal\Content\AI\PereEnigmeFin\IA_Pere_EnigmeFin.uasset: [Compiler] Unexpected node type K2Node_ConvertAsset encountered at  Resolve Soft Reference
+[2022.05.19-12.26.13:957][105]LogBlueprint: Error: [AssetLog] C:\Users\game2\Documents\GitHub\CandleUnreal\Content\AI\PereEnigmeFin\IA_Pere_EnigmeFin.uasset: [Compiler] Couldn't find target for dynamically bound delegate node  Bind Event to On Object Activated
+[2022.05.19-12.26.13:959][105]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/Iteractibles/BP_LaveLinge.BP_LaveLinge_C for a property of BlueprintGeneratedClass /Game/BluePrint/Iteractibles/BP_MicroOnde.BP_MicroOnde_C. Reference will be nullptred.
+    Property = SoftObjectProperty /Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin.IA_Pere_EnigmeFin_C:BP_MicroOnde
+    Item = BP_LaveLinge_C /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.BP_LaveLinge_2
+[2022.05.19-12.26.14:006][105]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.05.19-12.26.18:251][395]BlueprintLog: New page: Compile IA_Pere_EnigmeFin
+[2022.05.19-12.26.18:259][395]LogBlueprint: Error: [AssetLog] C:\Users\game2\Documents\GitHub\CandleUnreal\Content\AI\PereEnigmeFin\IA_Pere_EnigmeFin.uasset: [Compiler] The type of  Input  is undetermined.  Connect something to  Resolve Soft Reference  to imply a specific type.
+[2022.05.19-12.26.18:259][395]LogBlueprint: Error: [AssetLog] C:\Users\game2\Documents\GitHub\CandleUnreal\Content\AI\PereEnigmeFin\IA_Pere_EnigmeFin.uasset: [Compiler] The type of  Output  is undetermined.  Connect something to  Resolve Soft Reference  to imply a specific type.
+[2022.05.19-12.26.18:259][395]LogBlueprint: Error: [AssetLog] C:\Users\game2\Documents\GitHub\CandleUnreal\Content\AI\PereEnigmeFin\IA_Pere_EnigmeFin.uasset: [Compiler] Unexpected node type K2Node_ConvertAsset encountered at  Resolve Soft Reference
+[2022.05.19-12.26.18:260][395]LogBlueprint: Error: [AssetLog] C:\Users\game2\Documents\GitHub\CandleUnreal\Content\AI\PereEnigmeFin\IA_Pere_EnigmeFin.uasset: [Compiler] Unexpected node type K2Node_ConvertAsset encountered at  Resolve Soft Reference
+[2022.05.19-12.26.18:260][395]LogBlueprint: Error: [AssetLog] C:\Users\game2\Documents\GitHub\CandleUnreal\Content\AI\PereEnigmeFin\IA_Pere_EnigmeFin.uasset: [Compiler] Couldn't find target for dynamically bound delegate node  Bind Event to On Object Activated
+[2022.05.19-12.26.18:304][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.05.19-12.26.28:484][105]BlueprintLog: New page: Compile IA_Pere_EnigmeFin
+[2022.05.19-12.26.28:537][105]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.05.19-12.26.32:925][412]BlueprintLog: New page: Compile IA_Pere_EnigmeFin
+[2022.05.19-12.26.32:977][412]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.05.19-12.29.17:105][932]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.05.19-12.29.17:114][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/Levels/MaisonV2_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.19-12.29.17:378][932]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/MaisonV2_Auto531C515C24A572A0030B922A0C253527E.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/Levels/MaisonV2_Auto5.umap'
+[2022.05.19-12.29.17:382][932]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MaisonV2' took 0.313
+[2022.05.19-12.29.17:383][932]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.313
+[2022.05.19-12.29.17:383][932]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin] ([2] browsable assets)...
+[2022.05.19-12.29.17:383][932]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin]
+[2022.05.19-12.29.17:420][932]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/IA_Pere_EnigmeFin_Auto5EF8FFD674E436285C8AE2B81AC439F9B.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/Autosaves/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin_Auto5.uasset'
+[2022.05.19-12.29.17:421][932]LogFileHelpers: Auto-saving content packages took 0.039
+[2022.05.19-12.30.45:826][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereEnigmeFin/IA_Pere_EnigmeFin.uasset" SILENT=true
+[2022.05.19-12.30.45:865][508]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/IA_Pere_EnigmeFinD8362228424EEAE6DE9246A25D0D6AA0.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereEnigmeFin/IA_Pere_EnigmeFin.uasset'
+[2022.05.19-12.30.45:879][508]AssetCheck: New page: Asset Save: IA_Pere_EnigmeFin
+[2022.05.19-12.30.45:879][508]LogContentValidation: Display: Validating Blueprint /Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin.IA_Pere_EnigmeFin
+[2022.05.19-12.30.54:482][141]LogEditorViewport: Clicking on Actor (LMB): BP_respawn_C (BP_respawn3)
+[2022.05.19-12.31.03:679][767]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-12.31.03:689][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-12.31.03:689][767]PIE: New page: PIE session: MaisonV2 (19 mai 2022 à 16:31:03)
+[2022.05.19-12.31.03:689][767]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.19-12.31.03:765][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075135s)
+[2022.05.19-12.31.03:768][767]LogAIModule: Creating AISystem for world MaisonV2
+[2022.05.19-12.31.03:769][767]LogPlayLevel: PIE: World Init took: (0.003974s)
+[2022.05.19-12.31.03:769][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MaisonV2.MaisonV2 to /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 (0.079395s)
+[2022.05.19-12.31.03:795][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.05.19-12.31.03:800][767]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.19-12.31.03:800][767]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-12.31.03:800][767]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-12.31.03:800][767]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-12.31.03:800][767]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-12.31.03:800][767]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-12.31.03:800][767]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-12.31.03:800][767]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-12.31.03:800][767]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-12.31.03:801][767]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-12.31.03:801][767]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-12.31.03:801][767]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-12.31.03:801][767]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-12.31.03:805][767]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-12.31.03:805][767]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-12.31.03:819][767]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2022.05.19-12.31.03:819][767]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-12.31.03:819][767]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-12.31.03:819][767]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-12.31.03:820][767]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-12.31.03:820][767]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-12.31.03:820][767]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-12.31.03:821][767]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-12.31.03:821][767]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-12.31.03:821][767]LogInit: FAudioDevice initialized.
+[2022.05.19-12.31.03:821][767]LogAudio: Display: Audio Device (ID: 4) registered with world 'MaisonV2'.
+[2022.05.19-12.31.03:840][767]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.19-12.31.03:855][767]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 up for play (max tick rate 0) at 2022.05.19-14.31.03
+[2022.05.19-12.31.03:857][767]LogWorld: Bringing up level for play took: 0.017810
+[2022.05.19-12.31.03:858][767]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.05.19-12.31.03:866][767]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.19-12.31.03:867][767]PIE: Server logged in
+[2022.05.19-12.31.03:867][767]PIE: Play in editor total start time 0,18 seconds.
+[2022.05.19-12.31.27:037][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-12.31.27:037][639]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.19-12.31.27:038][639]LogWorld: UWorld::CleanupWorld for MaisonV2, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-12.31.27:043][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-12.31.27:066][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-12.31.27:087][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-12.31.27:120][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-12.31.27:123][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-12.31.27:126][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-12.31.27:137][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.05.19-12.31.27:194][640]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.05.19-12.31.38:905][525]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-12.31.38:913][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-12.31.38:913][525]PIE: New page: PIE session: MaisonV2 (19 mai 2022 à 16:31:38)
+[2022.05.19-12.31.38:913][525]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.19-12.31.38:986][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073581s)
+[2022.05.19-12.31.38:987][525]LogAIModule: Creating AISystem for world MaisonV2
+[2022.05.19-12.31.38:987][525]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2022.05.19-12.31.38:987][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MaisonV2.MaisonV2 to /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 (0.074902s)
+[2022.05.19-12.31.39:013][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.05.19-12.31.39:016][525]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.19-12.31.39:016][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-12.31.39:016][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-12.31.39:016][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-12.31.39:016][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-12.31.39:016][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-12.31.39:016][525]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-12.31.39:016][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-12.31.39:016][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-12.31.39:017][525]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-12.31.39:017][525]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-12.31.39:017][525]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-12.31.39:017][525]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-12.31.39:021][525]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-12.31.39:021][525]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-12.31.39:035][525]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2022.05.19-12.31.39:035][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-12.31.39:035][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-12.31.39:035][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-12.31.39:035][525]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-12.31.39:035][525]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-12.31.39:035][525]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-12.31.39:036][525]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-12.31.39:036][525]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-12.31.39:036][525]LogInit: FAudioDevice initialized.
+[2022.05.19-12.31.39:037][525]LogAudio: Display: Audio Device (ID: 5) registered with world 'MaisonV2'.
+[2022.05.19-12.31.39:046][525]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.19-12.31.39:057][525]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 up for play (max tick rate 0) at 2022.05.19-14.31.39
+[2022.05.19-12.31.39:058][525]LogWorld: Bringing up level for play took: 0.011624
+[2022.05.19-12.31.39:059][525]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.05.19-12.31.39:065][525]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.19-12.31.39:066][525]PIE: Server logged in
+[2022.05.19-12.31.39:066][525]PIE: Play in editor total start time 0,155 seconds.
+[2022.05.19-12.32.26:137][357]LogBlueprintUserMessages: [BP_Pendule_2] Penduleu
+[2022.05.19-12.32.26:627][396]LogBlueprintUserMessages: [IA_Pere_EnigmeFin_C_0] 2
+[2022.05.19-12.32.37:929][323]LogBlueprintUserMessages: [BP_Tele2_2] Penduleu
+[2022.05.19-12.32.38:427][364]LogBlueprintUserMessages: [IA_Pere_EnigmeFin_C_0] 1
+[2022.05.19-12.32.51:924][480]LogCharacterMovement: FirstPersonCharacter_2 is stuck and failed to move! Velocity: X=296.24 Y=-47.35 Z=0.00 Location: X=-713.06 Y=-7731.66 Z=17.75 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.699 Actor:None Component:ModelComponent_77 BoneName:None (0 other events since notify)
+[2022.05.19-12.33.03:057][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-12.33.03:057][393]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.19-12.33.03:058][393]LogWorld: UWorld::CleanupWorld for MaisonV2, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-12.33.03:060][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-12.33.03:073][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-12.33.03:083][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-12.33.03:108][393]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-12.33.03:108][393]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-12.33.03:109][393]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-12.33.03:111][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-12.33.03:117][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.05.19-12.33.03:169][394]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.05.19-12.34.59:181][903]BlueprintLog: New page: Compile IA_Pere_EnigmeFin
+[2022.05.19-12.34.59:235][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.05.19-12.35.02:341][115]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/Iteractibles/BP_Pendule.BP_Pendule
+[2022.05.19-12.36.08:625][329]BlueprintLog: New page: Compile IA_Pere_EnigmeFin
+[2022.05.19-12.36.08:683][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.05.19-12.36.11:361][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereEnigmeFin/IA_Pere_EnigmeFin.uasset" SILENT=true
+[2022.05.19-12.36.11:403][600]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/IA_Pere_EnigmeFinD153AE0D49E053F32F3800B7B2BEC807.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereEnigmeFin/IA_Pere_EnigmeFin.uasset'
+[2022.05.19-12.36.11:415][600]AssetCheck: New page: Asset Save: IA_Pere_EnigmeFin
+[2022.05.19-12.36.11:415][600]LogContentValidation: Display: Validating Blueprint /Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin.IA_Pere_EnigmeFin
+[2022.05.19-12.36.14:066][818]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-12.36.14:074][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-12.36.14:074][818]PIE: New page: PIE session: MaisonV2 (19 mai 2022 à 16:36:14)
+[2022.05.19-12.36.14:074][818]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.19-12.36.14:152][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077159s)
+[2022.05.19-12.36.14:153][818]LogAIModule: Creating AISystem for world MaisonV2
+[2022.05.19-12.36.14:153][818]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2022.05.19-12.36.14:153][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MaisonV2.MaisonV2 to /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 (0.078481s)
+[2022.05.19-12.36.14:182][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.05.19-12.36.14:183][818]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.05.19-12.36.14:183][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-12.36.14:183][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-12.36.14:183][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-12.36.14:183][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-12.36.14:183][818]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-12.36.14:183][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-12.36.14:183][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-12.36.14:183][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-12.36.14:184][818]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-12.36.14:184][818]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-12.36.14:184][818]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-12.36.14:184][818]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-12.36.14:188][818]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-12.36.14:188][818]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-12.36.14:202][818]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2022.05.19-12.36.14:202][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-12.36.14:202][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-12.36.14:202][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-12.36.14:203][818]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-12.36.14:203][818]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-12.36.14:203][818]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-12.36.14:204][818]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-12.36.14:204][818]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-12.36.14:204][818]LogInit: FAudioDevice initialized.
+[2022.05.19-12.36.14:204][818]LogAudio: Display: Audio Device (ID: 6) registered with world 'MaisonV2'.
+[2022.05.19-12.36.14:213][818]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.19-12.36.14:224][818]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 up for play (max tick rate 0) at 2022.05.19-14.36.14
+[2022.05.19-12.36.14:226][818]LogWorld: Bringing up level for play took: 0.012427
+[2022.05.19-12.36.14:227][818]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.05.19-12.36.14:232][818]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.19-12.36.14:233][818]PIE: Server logged in
+[2022.05.19-12.36.14:234][818]PIE: Play in editor total start time 0,16 seconds.
+[2022.05.19-12.36.58:775][227]LogBlueprintUserMessages: [BP_Pendule_2] Penduleu
+[2022.05.19-12.36.59:269][265]LogBlueprintUserMessages: [IA_Pere_EnigmeFin_C_0] 2
+[2022.05.19-12.37.35:143][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-12.37.35:143][ 11]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.19-12.37.35:144][ 11]LogWorld: UWorld::CleanupWorld for MaisonV2, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-12.37.35:146][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-12.37.35:161][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-12.37.35:171][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-12.37.35:197][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-12.37.35:198][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-12.37.35:199][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-12.37.35:202][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-12.37.35:210][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.05.19-12.37.35:261][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.05.19-12.38.31:136][572]BlueprintLog: New page: Compile IA_Pere_EnigmeFin
+[2022.05.19-12.38.31:193][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.05.19-12.38.31:759][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereEnigmeFin/IA_Pere_EnigmeFin.uasset" SILENT=true
+[2022.05.19-12.38.31:801][602]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/IA_Pere_EnigmeFin989E02AE4602FDB06FA8068B0168656A.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereEnigmeFin/IA_Pere_EnigmeFin.uasset'
+[2022.05.19-12.38.31:815][602]AssetCheck: New page: Asset Save: IA_Pere_EnigmeFin
+[2022.05.19-12.38.31:815][602]LogContentValidation: Display: Validating Blueprint /Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin.IA_Pere_EnigmeFin
+[2022.05.19-12.38.43:103][340]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.19-12.38.43:111][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-12.38.43:112][340]PIE: New page: PIE session: MaisonV2 (19 mai 2022 à 16:38:43)
+[2022.05.19-12.38.43:133][340]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.19-12.38.43:205][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072963s)
+[2022.05.19-12.38.43:206][340]LogAIModule: Creating AISystem for world MaisonV2
+[2022.05.19-12.38.43:206][340]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2022.05.19-12.38.43:206][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MaisonV2.MaisonV2 to /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 (0.074271s)
+[2022.05.19-12.38.43:236][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.05.19-12.38.43:237][340]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.05.19-12.38.43:237][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-12.38.43:237][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-12.38.43:237][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-12.38.43:237][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-12.38.43:237][340]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.19-12.38.43:237][340]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.19-12.38.43:237][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.19-12.38.43:237][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-12.38.43:238][340]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-12.38.43:238][340]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-12.38.43:238][340]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-12.38.43:238][340]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.19-12.38.43:241][340]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.19-12.38.43:241][340]LogAudioMixer: Display: 1: FrontRight
+[2022.05.19-12.38.43:257][340]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2022.05.19-12.38.43:257][340]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-12.38.43:257][340]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-12.38.43:258][340]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-12.38.43:258][340]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.19-12.38.43:258][340]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.19-12.38.43:258][340]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.19-12.38.43:259][340]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.19-12.38.43:259][340]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.19-12.38.43:259][340]LogInit: FAudioDevice initialized.
+[2022.05.19-12.38.43:259][340]LogAudio: Display: Audio Device (ID: 7) registered with world 'MaisonV2'.
+[2022.05.19-12.38.43:272][340]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.19-12.38.43:282][340]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MaisonV2.MaisonV2 up for play (max tick rate 0) at 2022.05.19-14.38.43
+[2022.05.19-12.38.43:284][340]LogWorld: Bringing up level for play took: 0.011525
+[2022.05.19-12.38.43:285][340]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.05.19-12.38.43:292][340]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.05.19-12.38.43:292][340]PIE: Server logged in
+[2022.05.19-12.38.43:294][340]PIE: Play in editor total start time 0,183 seconds.
+[2022.05.19-12.39.42:504][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-12.39.42:504][453]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MaisonV2
+[2022.05.19-12.39.42:505][453]LogWorld: UWorld::CleanupWorld for MaisonV2, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-12.39.42:507][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-12.39.42:521][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-12.39.42:532][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-12.39.42:559][453]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.19-12.39.42:560][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-12.39.42:561][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.19-12.39.42:563][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-12.39.42:569][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.05.19-12.39.42:619][454]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.05.19-12.40.04:286][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-12.40.04:315][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.05.19-12.40.04:543][894]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/MaisonV295990B634802E2948AA580B1A7B45473.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.05.19-12.40.04:556][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2_BuiltData" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset" SILENT=true
+[2022.05.19-12.40.04:691][894]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/MaisonV2_BuiltData779B8F984870CF485166719D8EEC540E.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset'
+[2022.05.19-12.40.04:704][894]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.19-12.40.04:704][894]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MaisonV2_BuiltData.MaisonV2_BuiltData
+[2022.05.19-12.40.04:704][894]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.05.19-12.40.06:941][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereEnigmeFin/IA_Pere_EnigmeFin.uasset" SILENT=true
+[2022.05.19-12.40.06:982][ 80]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/IA_Pere_EnigmeFinBBE62B7449C711A7FC8F6D8F05FC432F.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereEnigmeFin/IA_Pere_EnigmeFin.uasset'
+[2022.05.19-12.40.06:995][ 80]AssetCheck: New page: Asset Save: IA_Pere_EnigmeFin
+[2022.05.19-12.40.06:995][ 80]LogContentValidation: Display: Validating Blueprint /Game/AI/PereEnigmeFin/IA_Pere_EnigmeFin.IA_Pere_EnigmeFin
+[2022.05.19-12.40.21:540][ 51]LogEditorViewport: Clicking on Actor (LMB): BP_EQSTest_C (BP_EQSTest)
+[2022.05.19-12.40.23:298][113]LogEditorViewport: Clicking on Actor (LMB): CheminéeBP_C (CheminéeBP)
