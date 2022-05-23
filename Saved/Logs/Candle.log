@@ -30957,3 +30957,19 @@ Please see Output Log for details.
 [2022.05.23-15.46.23:027][422]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.23-15.46.23:027][422]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
 [2022.05.23-15.46.23:027][422]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MaisonV2_BuiltData.MaisonV2_BuiltData
+[2022.05.23-15.48.44:568][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereTuto/BP_PereTuto" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereTuto/BP_PereTuto.uasset" SILENT=true
+[2022.05.23-15.48.44:586][992]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/BP_PereTutoEB87EA034C9F61E3A0949383E2286CE3.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereTuto/BP_PereTuto.uasset'
+[2022.05.23-15.48.44:605][992]AssetCheck: New page: Asset Save: BP_PereTuto
+[2022.05.23-15.48.44:605][992]LogContentValidation: Display: Validating Blueprint /Game/AI/PereTuto/BP_PereTuto.BP_PereTuto
+[2022.05.23-15.48.45:066][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereTuto/BP_PereTuto" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereTuto/BP_PereTuto.uasset" SILENT=true
+[2022.05.23-15.48.45:085][ 21]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/BP_PereTuto68362E674FE1514B39A2658535405C56.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereTuto/BP_PereTuto.uasset'
+[2022.05.23-15.48.45:103][ 21]AssetCheck: New page: Asset Save: BP_PereTuto
+[2022.05.23-15.48.45:103][ 21]LogContentValidation: Display: Validating Blueprint /Game/AI/PereTuto/BP_PereTuto.BP_PereTuto
+[2022.05.23-15.48.47:783][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.23-15.48.47:824][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.05.23-15.48.48:064][265]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/MaisonV2659008934A25F1841F89839EA167AA54.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.05.23-15.48.48:078][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2_BuiltData" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset" SILENT=true
+[2022.05.23-15.48.48:235][265]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/MaisonV2_BuiltDataE9F250CF47517F0D75E9B4B202AEADAE.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset'
+[2022.05.23-15.48.48:253][265]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.23-15.48.48:253][265]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.05.23-15.48.48:253][265]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MaisonV2_BuiltData.MaisonV2_BuiltData
