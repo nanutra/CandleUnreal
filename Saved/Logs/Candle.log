@@ -2860,3 +2860,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.24-09.48.57:856][642]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sound/OpenDoor.OpenDoor
 [2022.05.24-09.48.57:856][642]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sound/CloseDoor.CloseDoor
 [2022.05.24-09.48.57:856][642]LogContentValidation: Display: Validating SoundCue /Game/Assets/Sound/WindowShut_Cue.WindowShut_Cue
+[2022.05.24-09.53.11:599][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereTuto/BP_PereTuto" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereTuto/BP_PereTuto.uasset" SILENT=true
+[2022.05.24-09.53.11:619][210]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/BP_PereTuto0BDF4340445CE5E1B6930ABC929A2B40.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereTuto/BP_PereTuto.uasset'
+[2022.05.24-09.53.11:633][210]AssetCheck: New page: Asset Save: BP_PereTuto
+[2022.05.24-09.53.11:633][210]LogContentValidation: Display: Validating Blueprint /Game/AI/PereTuto/BP_PereTuto.BP_PereTuto
+[2022.05.24-09.56.44:291][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.05.24-09.56.45:825][933]LogSlate: Window 'Save Content' being destroyed
+[2022.05.24-09.56.45:845][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PereTuto/IA_PereTuto" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereTuto/IA_PereTuto.uasset" SILENT=true
+[2022.05.24-09.56.45:877][933]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/IA_PereTutoB9B606AA48BE2A2DECC5CFB75BA2FEC0.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/AI/PereTuto/IA_PereTuto.uasset'
+[2022.05.24-09.56.45:889][933]AssetCheck: New page: Asset Save: IA_PereTuto
+[2022.05.24-09.56.45:889][933]LogContentValidation: Display: Validating Blueprint /Game/AI/PereTuto/IA_PereTuto.IA_PereTuto
