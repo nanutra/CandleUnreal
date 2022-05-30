@@ -3852,3 +3852,11 @@ Reference List:
 [2022.05.30-15.55.41:126][372]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/BP_CandleStick1DBE52F64591379F8CD3E69414223DF8.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/BluePrint/BP_CandleStick.uasset'
 [2022.05.30-15.55.41:139][372]AssetCheck: New page: Asset Save: BP_CandleStick
 [2022.05.30-15.55.41:139][372]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/BP_CandleStick.BP_CandleStick
+[2022.05.30-15.56.41:645][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.30-15.56.41:688][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.05.30-15.56.42:088][702]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/MaisonV230B43F794A69BBEC22AF6EBDB48EF738.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.05.30-15.56.42:103][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2_BuiltData" FILE="C:/Users/game2/Documents/GitHub/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset" SILENT=true
+[2022.05.30-15.56.42:112][702]LogSavePackage: Moving 'C:/Users/game2/Documents/GitHub/CandleUnreal/Saved/MaisonV2_BuiltData4B7EF41B4508E2BFE1FD1AB99AAA0A07.tmp' to 'C:/Users/game2/Documents/GitHub/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset'
+[2022.05.30-15.56.42:134][702]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.30-15.56.42:134][702]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MaisonV2_BuiltData.MaisonV2_BuiltData
+[2022.05.30-15.56.42:134][702]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
