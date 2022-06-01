@@ -2883,3 +2883,782 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.01-12.53.04:908][ 57]LogSlate: Window 'BP_encadrement_Scale' being destroyed
 [2022.06.01-12.53.04:958][ 57]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
 [2022.06.01-12.53.04:958][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.55.39:312][433]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.06.01-12.55.39:333][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/Autosaves/Game/Levels/MaisonV2_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.01-12.55.39:886][433]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/MaisonV2_Auto3B4A2B5354DFAA2A60A0FAAA99106B7C1.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/Autosaves/Game/Levels/MaisonV2_Auto3.umap'
+[2022.06.01-12.55.39:893][433]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MaisonV2' took 0.648
+[2022.06.01-12.55.39:893][433]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.648
+[2022.06.01-12.56.31:537][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.06.01-12.56.34:554][823]LogSlate: Window 'Save Content' being destroyed
+[2022.06.01-12.56.34:621][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/bol3B54324C4D19FC4FCF851CBDE0780837.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/bol/bol.uasset'
+[2022.06.01-12.56.34:913][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/bol_DefaultMaterial_BaseColor_1029EBED4A45C54719BCE9A9978C40FFD4.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/bol/propre/fleur/bol_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.35:152][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/bol_DefaultMaterial_BaseColor_1097911D524321E1D2638E54BEB81D0B32.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/bol/propre/blanc/bol_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.35:611][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/bol_DefaultMaterial_BaseColor_10835A95A447D0EFE13723D781F40ECD6C.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/bol/sale/fleur/bol_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.35:895][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/bol_DefaultMaterial_BaseColor_102782167C46BE9B17FAA5778299FF09E1.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/bol/propre/bol_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.36:314][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/bol_DefaultMaterial_BaseColor_10D20F075B46467D5FA93918AE2ADB0FD5.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/bol/sale/blanc/bol_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.36:545][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/bol_DefaultMaterial_Normal_100128A621BB484921F911984ABEF3535C2F.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/bol/propre/bol_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.56.36:745][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/bol_DefaultMaterial_Normal_10017F3013474955F11F38AFC3B56FC3B619.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/bol/propre/fleur/bol_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.56.36:949][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/bol_DefaultMaterial_Normal_10013782C4C84CC3C406C7C737969C786028.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/bol/propre/blanc/bol_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.56.37:199][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/bol_DefaultMaterial_Normal_10016F34FB874A0D4298C50A91A5D401163D.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/bol/sale/blanc/bol_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.56.37:388][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/bol_DefaultMaterial_Normal_1001B118D074499B202E70E3009E27652439.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/bol/sale/fleur/bol_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.56.37:642][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/bol_DefaultMaterial_OcclusionRouBC819FAE40EDF4E574DCE98AD24C7B31.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/bol/propre/bol_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.56.37:876][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/bol_DefaultMaterial_OcclusionRouBB6275D74FC45F55687635A904E7B27C.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/bol/sale/blanc/bol_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.56.38:110][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/bol_DefaultMaterial_OcclusionRouEAA097324CFDF92BDEB94E91B9F4BF3B.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/bol/propre/blanc/bol_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.56.38:349][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/bol_DefaultMaterial_OcclusionRou3334354E45BFCAC3370F7090FFC51A63.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/bol/propre/fleur/bol_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.56.38:610][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/bol_DefaultMaterial_OcclusionRou7BD90E204BEE34C116A006B8A8E42997.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/bol/sale/fleur/bol_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.56.38:617][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/Boulon2F4A526649F70D301132628A64B10480.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Boulon/Boulon.uasset'
+[2022.06.01-12.56.39:193][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/Boulon_DefaultMaterial_BaseColorC78519EE4B7CECD4169C938663F36F06.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Boulon/Boulon_DefaultMaterial_BaseColor.uasset'
+[2022.06.01-12.56.39:763][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/Boulon_DefaultMaterial_NormalEB8A71124E9841E0F1062C8C600836D0.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Boulon/Boulon_DefaultMaterial_Normal.uasset'
+[2022.06.01-12.56.40:078][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/Boulon_DefaultMaterial_OcclusionF66C87714D6E77BC332E6590EBEAB953.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Boulon/Boulon_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.06.01-12.56.40:777][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CrayonUVMesh_DefaultMaterial_Bas87FDAEB447851DB94B93EF956366415E.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/rose/CrayonUVMesh_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.41:563][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CrayonUVMesh_DefaultMaterial_Bas6AD4596E46A0400ADFB47EBCAD898C99.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/vert/CrayonUVMesh_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.42:269][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CrayonUVMesh_DefaultMaterial_Bas99B64CCF4E939860CA48EE9EC807C9A5.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/orange/CrayonUVMesh_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.42:966][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CrayonUVMesh_DefaultMaterial_Bas0AFA4C1940646171742B4C8D73090F87.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/violet/CrayonUVMesh_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.43:586][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CrayonUVMesh_DefaultMaterial_Bas1019A8744BF0869E6AA9159CA039159B.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/bleu/CrayonUVMesh_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.44:678][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CrayonUVMesh_DefaultMaterial_Nor4096721F4D0A62C577CBBAB69F9D5FDC.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/orange/CrayonUVMesh_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.56.45:728][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CrayonUVMesh_DefaultMaterial_Nor608BF2544B6E8E0456837994B0775BAA.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/bleu/CrayonUVMesh_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.56.46:695][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CrayonUVMesh_DefaultMaterial_NorCC47C7344EE835BDDD0437B9A10095E4.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/rose/CrayonUVMesh_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.56.47:805][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CrayonUVMesh_DefaultMaterial_Nor23FCA1694D8A66E3FF288A8124472917.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/violet/CrayonUVMesh_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.56.48:920][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CrayonUVMesh_DefaultMaterial_Nor2091BBD6475045B16A17A8828E887F58.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/vert/CrayonUVMesh_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.56.49:207][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CrayonUVMesh_DefaultMaterial_OccBE16A6934B18A36AD56BF493562CB279.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/orange/CrayonUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.56.49:533][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CrayonUVMesh_DefaultMaterial_OccC9B17B2945392396F80D389069A2AEF3.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/vert/CrayonUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.56.49:860][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CrayonUVMesh_DefaultMaterial_Occ68D4D306429BFCCD9A6343A86694ECD5.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/rose/CrayonUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.56.50:207][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CrayonUVMesh_DefaultMaterial_OccCA53C0B247CB92DC9A0EDB8B1CEAE582.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/violet/CrayonUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.56.50:554][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CrayonUVMesh_DefaultMaterial_OccB54AF50040F0C8F9F455A3B998128B0A.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/bleu/CrayonUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.56.51:125][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_BaseCo809C730C4D209DED195748B7DD032C78.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/bleu/CreUVMesh_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.51:251][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_BaseCoC702B7394791274C26C0A78F47B1C217.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/cigarette/CreUVMesh_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.51:914][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_BaseCoFD8D29C84A1F5F3A5720C4BAFD332559.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/rose/CreUVMesh_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.52:522][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_BaseCo01A8C1824D599944F1AF0F91B6F21D90.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/jaune/CreUVMesh_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.53:041][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_BaseCoD3AFEAB346D12BA7114637B85B950E69.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/violet/CreUVMesh_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.53:470][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_BaseCo863743904B505B7AF4D8E8BAD64683E2.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/vert/CreUVMesh_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.54:090][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_BaseCoD1EA0575418E209CE708CE9840B53376.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/rouge/CreUVMesh_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.56.55:001][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_Normal80C3B67D4C56DD9C0A0F70BF2E652B59.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/rose/CreUVMesh_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.56.55:519][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_Normal4E53E3224D3F0C237E62A885492B3907.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/cigarette/CreUVMesh_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.56.56:381][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_NormalBBE6190C4871624AD71B90B8EC35DB99.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/jaune/CreUVMesh_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.56.57:400][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_Normal46C4396D45B83BAABAACC8AD9C1B46E1.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/rouge/CreUVMesh_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.56.58:298][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_NormalAEE62B3B4D5EBB3A474C8A8520CE55E3.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/bleu/CreUVMesh_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.56.59:317][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_Normal3A69E6E84C2CC1D13278F29D84672BEB.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/vert/CreUVMesh_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.57.00:263][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_Normal8DACF3514F1F9667BE46B38DEECBAEC4.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/violet/CreUVMesh_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.57.00:585][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_Occlus40249692421F57E1ADB22BB59E2F9E29.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/jaune/CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.57.00:902][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_OcclusBDB2FDD8472AD578BCCBB789E598915E.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/vert/CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.57.01:213][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_Occlus5EBFC4B9479F53810FFBDC9EE7FDE83D.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/violet/CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.57.01:540][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_OcclusAD8CB49141F966B6A13FCAA1B503F518.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/rose/CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.57.01:865][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_Occlus3B7B1C304E274002756804A893F55733.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/rouge/CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.57.02:122][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_Occlus42FC84224576DF5A3BAF70AA1BF8EC0F.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/craies/normale/bleu/CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.57.02:259][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/CreUVMesh_DefaultMaterial_Occlus54ED60174A633F18C8717CB90D99501D.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/cigarette/CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.57.02:317][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/Grille2B9D5B30142B0378DFF5EE4BBA70092CB.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Grille/Grille2.uasset'
+[2022.06.01-12.57.02:924][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/Grille_DefaultMaterial_BaseColor54BBA0414AE76E7E153856968D8B926A.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Grille/Grille_DefaultMaterial_BaseColor.uasset'
+[2022.06.01-12.57.03:500][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/Grille_DefaultMaterial_Normal797431C3444E82CC0F1613B67FC53543.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Grille/Grille_DefaultMaterial_Normal.uasset'
+[2022.06.01-12.57.03:864][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/Grille_DefaultMaterial_Occlusion4E9CADA141DD2C61800DB2800596F7AC.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Grille/Grille_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.06.01-12.57.04:089][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/GrilleEncadrement_DefaultMateriaB9D6B7FC407663D751D147B67F82F169.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Encadrement/GrilleEncadrement_DefaultMaterial_BaseColor.uasset'
+[2022.06.01-12.57.04:372][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/GrilleEncadrement_DefaultMateriaB48EAA564EE995FCADADA59F3DA3F4A0.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Encadrement/GrilleEncadrement_DefaultMaterial_Normal.uasset'
+[2022.06.01-12.57.04:622][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/GrilleEncadrement_DefaultMateria45115A9C4EB272739B379399FCAE4DE0.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Encadrement/GrilleEncadrement_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.06.01-12.57.04:627][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/GrilleEncadrementScale5589E12B41C9290812AA9DA4755A6C65.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Encadrement/GrilleEncadrementScale.uasset'
+[2022.06.01-12.57.05:293][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/GrilleMur_DefaultMaterial_BaseCo8CA7CF9B4F91178788A6B097D0936CB0.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/GrilleEvacuation/Fermée/GrilleMur_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.57.05:883][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/GrilleMur_DefaultMaterial_Normal2331D1D1418A62D0FB3F309B068F5297.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/GrilleEvacuation/Fermée/GrilleMur_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.57.06:220][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/GrilleMur_DefaultMaterial_Occlus5DCA394B4F203E130A36EC9B66AD28FB.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/GrilleEvacuation/Fermée/GrilleMur_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.57.06:237][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/GrilleMurFinal61CB27F04AF2335BD0F8B28871BE9FA5.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/GrilleEvacuation/Fermée/GrilleMurFinal.uasset'
+[2022.06.01-12.57.06:241][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/interrupteur94F66AF048005311EB3513BEE0D35BDB.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/interrupteur/interrupteur.uasset'
+[2022.06.01-12.57.06:384][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/interrupteur_1001_BaseColorD76852004E2BC340C297ECAC14A7C34A.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/interrupteur/propre/interrupteur_1001_BaseColor.uasset'
+[2022.06.01-12.57.06:602][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/interrupteur_1001_BaseColorD067145F47253842DEC375B56E84DFBE.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/interrupteur/sale/interrupteur_1001_BaseColor.uasset'
+[2022.06.01-12.57.06:829][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/interrupteur_1001_Normal9553BAF347DE1D5811FAA6941D8EF9AD.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/interrupteur/sale/interrupteur_1001_Normal.uasset'
+[2022.06.01-12.57.07:011][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/interrupteur_1001_NormalE25B66974EC6F1F2530812B48447E0C1.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/interrupteur/propre/interrupteur_1001_Normal.uasset'
+[2022.06.01-12.57.07:163][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/interrupteur_1001_OcclusionRoughD8EF430A47CB2D1C76BE3CA47F44A943.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/interrupteur/sale/interrupteur_1001_OcclusionRoughnessMetallic.uasset'
+[2022.06.01-12.57.07:396][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/interrupteur_1001_OcclusionRough0731BAA4479FFA3B6E619D9B162F03AB.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/interrupteur/propre/interrupteur_1001_OcclusionRoughnessMetallic.uasset'
+[2022.06.01-12.57.07:408][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasineB9239FA84BD059D1961028B119435536.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/magasine.uasset'
+[2022.06.01-12.57.07:880][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_BaseCol020A47284FEB8AC279F77F99869DA37E.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/4/magasine_DefaultMaterial_BaseColor.uasset'
+[2022.06.01-12.57.08:362][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_BaseCol2D43E480409D8B7A503CEEB6CC6E7D7F.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/3/magasine_DefaultMaterial_BaseColor.uasset'
+[2022.06.01-12.57.08:802][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_BaseCol24FEFD7C4C11E8B6E3B9E1925021D1C8.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/11/magasine_DefaultMaterial_BaseColor.uasset'
+[2022.06.01-12.57.09:300][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_BaseColE747246340E2B4254D3DD1A383838CD7.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/10/magasine_DefaultMaterial_BaseColor.uasset'
+[2022.06.01-12.57.09:661][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_BaseCol098DB5B144A6F420D68B7CB5F93DA315.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/2/magasine_DefaultMaterial_BaseColor.uasset'
+[2022.06.01-12.57.10:179][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_BaseCol0F7DA4294BB7BEC14C607A8CBB5B070A.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/5/magasine_DefaultMaterial_BaseColor.uasset'
+[2022.06.01-12.57.10:595][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_BaseColB7A572D24FA70A19AB8B6EA2DB57DF4F.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/1/magasine_DefaultMaterial_BaseColor.uasset'
+[2022.06.01-12.57.11:163][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_BaseCol26BB4F5D4F865B8507792BB241D96C63.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/6/magasine_DefaultMaterial_BaseColor.uasset'
+[2022.06.01-12.57.11:588][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_BaseColC4A711CD42FB17EC2E400FB748DC937E.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/9/magasine_DefaultMaterial_BaseColor.uasset'
+[2022.06.01-12.57.12:040][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_BaseCol7B1EEA9542B2A0E9E3B9109538BABFF5.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/7/magasine_DefaultMaterial_BaseColor.uasset'
+[2022.06.01-12.57.12:541][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_BaseCol4E640C774D75DC657A7879A0B94244D6.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/8/magasine_DefaultMaterial_BaseColor.uasset'
+[2022.06.01-12.57.12:946][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_BaseCol8DDA113E49D47C00414E1BB0EADB1ED1.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/12/magasine_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.57.13:142][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_NormalC5460D7C4A4725CAE913428F14AADF0C.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/7/magasine_DefaultMaterial_Normal.uasset'
+[2022.06.01-12.57.13:326][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Normal64FD830B47B27DCFCA0A9BB3A0737B72.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/6/magasine_DefaultMaterial_Normal.uasset'
+[2022.06.01-12.57.13:493][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_NormalE168CE2F4449849F1A14569F99BC8977.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/10/magasine_DefaultMaterial_Normal.uasset'
+[2022.06.01-12.57.13:684][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Normal138E79C2468FE8F6F5DEFCAFAC2A8A3D.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/8/magasine_DefaultMaterial_Normal.uasset'
+[2022.06.01-12.57.13:886][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Normal405B10DF44CF06B6EA1227A390246DF6.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/11/magasine_DefaultMaterial_Normal.uasset'
+[2022.06.01-12.57.14:051][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Normal7689B7C445F3FEBBF11B24982B66E026.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/2/magasine_DefaultMaterial_Normal.uasset'
+[2022.06.01-12.57.14:274][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Normal7F03B9014610B8E52EF456B842948F79.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/9/magasine_DefaultMaterial_Normal.uasset'
+[2022.06.01-12.57.14:506][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Normal0ED30F5B4AA59F83105908B0625D54AF.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/3/magasine_DefaultMaterial_Normal.uasset'
+[2022.06.01-12.57.14:711][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_NormalD93446DE42DAAA5818F60E89D52763C0.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/4/magasine_DefaultMaterial_Normal.uasset'
+[2022.06.01-12.57.14:918][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_NormalE1D7DD614EDF85467CDB0FB297B7330C.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/1/magasine_DefaultMaterial_Normal.uasset'
+[2022.06.01-12.57.15:074][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Normal8FCE41F34D5040AED91DD2A9E70B16A9.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/5/magasine_DefaultMaterial_Normal.uasset'
+[2022.06.01-12.57.15:318][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Normal_661D99094E9523B46D75849DFE5CB30E.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/12/magasine_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.57.15:562][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Occlusi6C67CCCA4727D37EFDA6EDB49B134F77.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/8/magasine_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.06.01-12.57.15:849][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Occlusi1FCDD81A4A52DD6AB4D9F79714A95406.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/10/magasine_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.06.01-12.57.16:052][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Occlusi625A037C41E7FF8D7D6525A1533C6908.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/4/magasine_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.06.01-12.57.16:280][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Occlusi6873A28B48B1BA5A5C7D9686742D77C2.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/7/magasine_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.06.01-12.57.16:606][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Occlusi9363EAEA45A7E931893407A27E0CB1CA.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/6/magasine_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.06.01-12.57.16:778][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Occlusi873E9F5E430ED2943415DCA3B0129EE2.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/3/magasine_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.06.01-12.57.17:125][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_OcclusiED4646DB4F69CFEBD377199DF829D379.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/9/magasine_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.06.01-12.57.17:325][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Occlusi48EED6BE4ECAAB32849613958D1A1FF5.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/1/magasine_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.06.01-12.57.17:541][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_OcclusiE4BB47364B1115DE2DCBD381E00A1F61.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/2/magasine_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.06.01-12.57.17:799][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Occlusi0CFC404F4D281AF0509050BA4C1EA00D.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/11/magasine_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.06.01-12.57.18:033][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Occlusi3B5BDDF74E9A1A84374AB89A0CE24E5D.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/5/magasine_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2022.06.01-12.57.18:344][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/magasine_DefaultMaterial_Occlusi38E3AD384A234B71D32186A0DE19E1E7.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/magasine/12/magasine_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.57.18:348][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.01-12.57.18:390][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.06.01-12.57.18:923][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/MaisonV2A398995543A63318AE006F9E743275EA.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.06.01-12.57.18:951][823]LogFileHelpers: Saving map 'MaisonV2' took 0.606
+[2022.06.01-12.57.18:967][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/mouchoirsC73D38CE48F08440C216E48CE72C6953.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/mouchoirs/mouchoirs.uasset'
+[2022.06.01-12.57.19:356][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/mouchoirs_DefaultMaterial_BaseCoAB41FAC64E12F5E28D8FA49A5CBA15CC.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/mouchoirs/propre/mouchoirs_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.57.19:704][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/mouchoirs_DefaultMaterial_BaseCoF5C796A54757CEC852C7F08956A591C5.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/mouchoirs/sale/mouchoirs_DefaultMaterial_BaseColor_1001.uasset'
+[2022.06.01-12.57.20:161][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/mouchoirs_DefaultMaterial_NormalAB200B81433506EBA7F062BAA907406F.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/mouchoirs/propre/mouchoirs_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.57.20:561][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/mouchoirs_DefaultMaterial_NormalB157C8A6413C015620FEC682AEA1EF43.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/mouchoirs/sale/mouchoirs_DefaultMaterial_Normal_1001.uasset'
+[2022.06.01-12.57.20:783][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/mouchoirs_DefaultMaterial_OcclusB3207A70426367C924A359945E2EA3BD.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/mouchoirs/propre/mouchoirs_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.57.21:032][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/mouchoirs_DefaultMaterial_OcclusF15A7F0640796085154509B7EEBAC22A.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/petits_objets_déco/mouchoirs/sale/mouchoirs_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.06.01-12.57.21:059][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Assets_Texturés/NewMaterial" FILE="D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/NewMaterial.uasset" SILENT=true
+[2022.06.01-12.57.21:064][823]LogSavePackage: Moving 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Saved/NewMaterial252CF6254CA13C11629D41B53CEF1294.tmp' to 'D:/Laura.V GD2.1/GitHub/FlappyBirdV2/CandleUnreal/Content/Assets/Assets_Texturés/NewMaterial.uasset'
+[2022.06.01-12.57.21:141][823]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Material /Game/Assets/Assets_Texturés/NewMaterial.NewMaterial
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Boulon/Boulon_DefaultMaterial_OcclusionRoughnessMetallic.Boulon_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Boulon/Boulon_DefaultMaterial_Normal.Boulon_DefaultMaterial_Normal
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Boulon/Boulon_DefaultMaterial_BaseColor.Boulon_DefaultMaterial_BaseColor
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Boulon/Boulon.Boulon
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Grille/Grille_DefaultMaterial_BaseColor.Grille_DefaultMaterial_BaseColor
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Grille/Grille_DefaultMaterial_OcclusionRoughnessMetallic.Grille_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Grille/Grille_DefaultMaterial_Normal.Grille_DefaultMaterial_Normal
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Grille/Grille2.Grille2
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Encadrement/GrilleEncadrement_DefaultMaterial_BaseColor.GrilleEncadrement_DefaultMaterial_BaseColor
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Encadrement/GrilleEncadrement_DefaultMaterial_OcclusionRoughnessMetallic.GrilleEncadrement_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Encadrement/GrilleEncadrement_DefaultMaterial_Normal.GrilleEncadrement_DefaultMaterial_Normal
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Assets_Texturés/GrilleEvacuation/Séparée/Encadrement/GrilleEncadrementScale.GrilleEncadrementScale
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/GrilleEvacuation/Fermée/GrilleMur_DefaultMaterial_OcclusionRoughnessMetallic_1001.GrilleMur_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/GrilleEvacuation/Fermée/GrilleMur_DefaultMaterial_Normal_1001.GrilleMur_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/GrilleEvacuation/Fermée/GrilleMur_DefaultMaterial_BaseColor_1001.GrilleMur_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Assets_Texturés/GrilleEvacuation/Fermée/GrilleMurFinal.GrilleMurFinal
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/mouchoirs/sale/mouchoirs_DefaultMaterial_OcclusionRoughnessMetallic_1001.mouchoirs_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/mouchoirs/sale/mouchoirs_DefaultMaterial_Normal_1001.mouchoirs_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/mouchoirs/sale/mouchoirs_DefaultMaterial_BaseColor_1001.mouchoirs_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/mouchoirs/propre/mouchoirs_DefaultMaterial_OcclusionRoughnessMetallic_1001.mouchoirs_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/mouchoirs/propre/mouchoirs_DefaultMaterial_Normal_1001.mouchoirs_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/mouchoirs/propre/mouchoirs_DefaultMaterial_BaseColor_1001.mouchoirs_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Assets_Texturés/petits_objets_déco/mouchoirs/mouchoirs.mouchoirs
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/magasine.magasine
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/9/magasine_DefaultMaterial_OcclusionRoughnessMetallic.magasine_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.06.01-12.57.21:141][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/9/magasine_DefaultMaterial_Normal.magasine_DefaultMaterial_Normal
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/9/magasine_DefaultMaterial_BaseColor.magasine_DefaultMaterial_BaseColor
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/8/magasine_DefaultMaterial_OcclusionRoughnessMetallic.magasine_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/8/magasine_DefaultMaterial_Normal.magasine_DefaultMaterial_Normal
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/8/magasine_DefaultMaterial_BaseColor.magasine_DefaultMaterial_BaseColor
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/7/magasine_DefaultMaterial_OcclusionRoughnessMetallic.magasine_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/7/magasine_DefaultMaterial_Normal.magasine_DefaultMaterial_Normal
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/7/magasine_DefaultMaterial_BaseColor.magasine_DefaultMaterial_BaseColor
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/6/magasine_DefaultMaterial_OcclusionRoughnessMetallic.magasine_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/6/magasine_DefaultMaterial_Normal.magasine_DefaultMaterial_Normal
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/6/magasine_DefaultMaterial_BaseColor.magasine_DefaultMaterial_BaseColor
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/5/magasine_DefaultMaterial_OcclusionRoughnessMetallic.magasine_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/5/magasine_DefaultMaterial_Normal.magasine_DefaultMaterial_Normal
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/5/magasine_DefaultMaterial_BaseColor.magasine_DefaultMaterial_BaseColor
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/4/magasine_DefaultMaterial_OcclusionRoughnessMetallic.magasine_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/4/magasine_DefaultMaterial_Normal.magasine_DefaultMaterial_Normal
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/4/magasine_DefaultMaterial_BaseColor.magasine_DefaultMaterial_BaseColor
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/3/magasine_DefaultMaterial_OcclusionRoughnessMetallic.magasine_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/3/magasine_DefaultMaterial_Normal.magasine_DefaultMaterial_Normal
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/3/magasine_DefaultMaterial_BaseColor.magasine_DefaultMaterial_BaseColor
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/2/magasine_DefaultMaterial_OcclusionRoughnessMetallic.magasine_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/2/magasine_DefaultMaterial_Normal.magasine_DefaultMaterial_Normal
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/2/magasine_DefaultMaterial_BaseColor.magasine_DefaultMaterial_BaseColor
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/12/magasine_DefaultMaterial_OcclusionRoughnessMetallic_1001.magasine_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/12/magasine_DefaultMaterial_Normal_1001.magasine_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/12/magasine_DefaultMaterial_BaseColor_1001.magasine_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/11/magasine_DefaultMaterial_OcclusionRoughnessMetallic.magasine_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/11/magasine_DefaultMaterial_Normal.magasine_DefaultMaterial_Normal
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/11/magasine_DefaultMaterial_BaseColor.magasine_DefaultMaterial_BaseColor
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/10/magasine_DefaultMaterial_OcclusionRoughnessMetallic.magasine_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/10/magasine_DefaultMaterial_Normal.magasine_DefaultMaterial_Normal
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/10/magasine_DefaultMaterial_BaseColor.magasine_DefaultMaterial_BaseColor
+[2022.06.01-12.57.21:142][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/1/magasine_DefaultMaterial_OcclusionRoughnessMetallic.magasine_DefaultMaterial_OcclusionRoughnessMetallic
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/1/magasine_DefaultMaterial_Normal.magasine_DefaultMaterial_Normal
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/magasine/1/magasine_DefaultMaterial_BaseColor.magasine_DefaultMaterial_BaseColor
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/interrupteur/sale/interrupteur_1001_OcclusionRoughnessMetallic.interrupteur_1001_OcclusionRoughnessMetallic
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/interrupteur/sale/interrupteur_1001_Normal.interrupteur_1001_Normal
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/interrupteur/sale/interrupteur_1001_BaseColor.interrupteur_1001_BaseColor
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/interrupteur/propre/interrupteur_1001_OcclusionRoughnessMetallic.interrupteur_1001_OcclusionRoughnessMetallic
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/interrupteur/propre/interrupteur_1001_Normal.interrupteur_1001_Normal
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/interrupteur/propre/interrupteur_1001_BaseColor.interrupteur_1001_BaseColor
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Assets_Texturés/petits_objets_déco/interrupteur/interrupteur.interrupteur
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/violet/CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/violet/CreUVMesh_DefaultMaterial_Normal_1001.CreUVMesh_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/violet/CreUVMesh_DefaultMaterial_BaseColor_1001.CreUVMesh_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/vert/CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/vert/CreUVMesh_DefaultMaterial_Normal_1001.CreUVMesh_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/vert/CreUVMesh_DefaultMaterial_BaseColor_1001.CreUVMesh_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/rouge/CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/rouge/CreUVMesh_DefaultMaterial_Normal_1001.CreUVMesh_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/rouge/CreUVMesh_DefaultMaterial_BaseColor_1001.CreUVMesh_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/rose/CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/rose/CreUVMesh_DefaultMaterial_Normal_1001.CreUVMesh_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/rose/CreUVMesh_DefaultMaterial_BaseColor_1001.CreUVMesh_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:143][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/jaune/CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/jaune/CreUVMesh_DefaultMaterial_Normal_1001.CreUVMesh_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/jaune/CreUVMesh_DefaultMaterial_BaseColor_1001.CreUVMesh_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/bleu/CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/bleu/CreUVMesh_DefaultMaterial_Normal_1001.CreUVMesh_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/normale/bleu/CreUVMesh_DefaultMaterial_BaseColor_1001.CreUVMesh_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/violet/CrayonUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.CrayonUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/violet/CrayonUVMesh_DefaultMaterial_Normal_1001.CrayonUVMesh_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/violet/CrayonUVMesh_DefaultMaterial_BaseColor_1001.CrayonUVMesh_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/vert/CrayonUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.CrayonUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/vert/CrayonUVMesh_DefaultMaterial_Normal_1001.CrayonUVMesh_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/vert/CrayonUVMesh_DefaultMaterial_BaseColor_1001.CrayonUVMesh_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/rose/CrayonUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.CrayonUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/rose/CrayonUVMesh_DefaultMaterial_Normal_1001.CrayonUVMesh_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/rose/CrayonUVMesh_DefaultMaterial_BaseColor_1001.CrayonUVMesh_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/orange/CrayonUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.CrayonUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/bol/sale/blanc/bol_DefaultMaterial_Normal_1001.bol_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/orange/CrayonUVMesh_DefaultMaterial_Normal_1001.CrayonUVMesh_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/orange/CrayonUVMesh_DefaultMaterial_BaseColor_1001.CrayonUVMesh_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/bol/sale/blanc/bol_DefaultMaterial_BaseColor_1001.bol_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/bleu/CrayonUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.CrayonUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/bleu/CrayonUVMesh_DefaultMaterial_Normal_1001.CrayonUVMesh_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/bol/propre/fleur/bol_DefaultMaterial_OcclusionRoughnessMetallic_1001.bol_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/craies/crayon/bleu/CrayonUVMesh_DefaultMaterial_BaseColor_1001.CrayonUVMesh_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/bol/propre/fleur/bol_DefaultMaterial_Normal_1001.bol_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/cigarette/CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001.CreUVMesh_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/bol/propre/fleur/bol_DefaultMaterial_BaseColor_1001.bol_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/cigarette/CreUVMesh_DefaultMaterial_Normal_1001.CreUVMesh_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:144][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/bol/propre/bol_DefaultMaterial_OcclusionRoughnessMetallic_1001.bol_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:145][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/cigarette/CreUVMesh_DefaultMaterial_BaseColor_1001.CreUVMesh_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:145][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/bol/sale/fleur/bol_DefaultMaterial_OcclusionRoughnessMetallic_1001.bol_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:145][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/bol/propre/bol_DefaultMaterial_Normal_1001.bol_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:145][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/bol/propre/bol_DefaultMaterial_BaseColor_1001.bol_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:145][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/bol/propre/blanc/bol_DefaultMaterial_OcclusionRoughnessMetallic_1001.bol_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.57.21:145][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/bol/sale/fleur/bol_DefaultMaterial_Normal_1001.bol_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:145][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/bol/sale/fleur/bol_DefaultMaterial_BaseColor_1001.bol_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:145][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/bol/propre/blanc/bol_DefaultMaterial_Normal_1001.bol_DefaultMaterial_Normal_1001
+[2022.06.01-12.57.21:145][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/bol/propre/blanc/bol_DefaultMaterial_BaseColor_1001.bol_DefaultMaterial_BaseColor_1001
+[2022.06.01-12.57.21:145][823]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Assets_Texturés/petits_objets_déco/bol/bol.bol
+[2022.06.01-12.57.21:145][823]LogContentValidation: Display: Validating Texture2D /Game/Assets/Assets_Texturés/petits_objets_déco/bol/sale/blanc/bol_DefaultMaterial_OcclusionRoughnessMetallic_1001.bol_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.06.01-12.58.00:524][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.06.01-12.58.00:558][642]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.01-12.58.00:558][642]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.00:558][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.58.00:753][642]LogSlate: Window 'Candle - Unreal Editor' being destroyed
+[2022.06.01-12.58.00:917][643]Cmd: QUIT_EDITOR
+[2022.06.01-12.58.00:918][643]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.06.01-12.58.00:932][643]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.06.01-12.58.01:713][643]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.06.01-12.58.01:713][643]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.06.01-12.58.01:713][643]LogAudio: Display: Audio Device unregistered from world 'MaisonV2'.
+[2022.06.01-12.58.01:713][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.01-12.58.01:716][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.01-12.58.01:768][643]LogAudio: Display: Audio Device Manager Shutdown
+[2022.06.01-12.58.01:769][643]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.01-12.58.01:782][643]LogExit: Preparing to exit.
+[2022.06.01-12.58.02:605][643]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.06.01-12.58.02:931][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:931][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:931][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:931][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:931][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:931][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:931][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:931][643]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:933][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:933][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:933][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:933][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:933][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:933][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:933][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:933][643]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:934][643]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:936][643]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:937][643]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:937][643]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:938][643]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:939][643]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:940][643]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:940][643]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:941][643]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:942][643]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:943][643]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:943][643]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:944][643]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:945][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:945][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:945][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:945][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:945][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:945][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:945][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:945][643]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:946][643]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.02:947][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:947][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:947][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:947][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:947][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:947][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:947][643]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.01-12.58.02:947][643]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.03:025][643]LogExit: Transaction tracking system shut down
+[2022.06.01-12.58.03:047][643]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.06.01-12.58.03:084][643]LogExit: Editor shut down
+[2022.06.01-12.58.03:941][643]LogExit: Object subsystem successfully closed.
+[2022.06.01-12.58.03:984][643]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.01-12.58.03:984][643]LogShaderCompilers: Display: Total job queries 326, among them cache hits 83 (25.46%)
+[2022.06.01-12.58.03:984][643]LogShaderCompilers: Display: Tracking 223 distinct input hashes that result in 147 distinct outputs (65.92%)
+[2022.06.01-12.58.03:984][643]LogShaderCompilers: Display: RAM used: 32.48 MB (0.03 GB) of 819.20 MB (0.80 GB) budget. Usage: 3.97%
+[2022.06.01-12.58.03:984][643]LogShaderCompilers: Display: ================================================
+[2022.06.01-12.58.04:004][643]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.06.01-12.58.04:087][643]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (884)
+[2022.06.01-12.58.04:087][643]LogModuleManager: Shutting down and abandoning module BlueprintGraph (882)
+[2022.06.01-12.58.04:087][643]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (880)
+[2022.06.01-12.58.04:088][643]LogModuleManager: Shutting down and abandoning module Voice (878)
+[2022.06.01-12.58.04:088][643]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (876)
+[2022.06.01-12.58.04:088][643]LogModuleManager: Shutting down and abandoning module SceneOutliner (874)
+[2022.06.01-12.58.04:088][643]LogModuleManager: Shutting down and abandoning module AddContentDialog (872)
+[2022.06.01-12.58.04:102][643]LogModuleManager: Shutting down and abandoning module WidgetCarousel (871)
+[2022.06.01-12.58.04:102][643]LogModuleManager: Shutting down and abandoning module EditorWidgets (868)
+[2022.06.01-12.58.04:102][643]LogModuleManager: Shutting down and abandoning module StatsViewer (866)
+[2022.06.01-12.58.04:102][643]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (864)
+[2022.06.01-12.58.04:103][643]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (862)
+[2022.06.01-12.58.04:103][643]LogModuleManager: Shutting down and abandoning module AutomationWorker (860)
+[2022.06.01-12.58.04:104][643]LogModuleManager: Shutting down and abandoning module SteamVREditor (858)
+[2022.06.01-12.58.04:104][643]LogModuleManager: Shutting down and abandoning module OculusMR (856)
+[2022.06.01-12.58.04:104][643]LogModuleManager: Shutting down and abandoning module TextureAlignMode (854)
+[2022.06.01-12.58.04:104][643]LogModuleManager: Shutting down and abandoning module BspMode (852)
+[2022.06.01-12.58.04:104][643]LogModuleManager: Shutting down and abandoning module GeometryMode (850)
+[2022.06.01-12.58.04:104][643]LogModuleManager: Shutting down and abandoning module SpatializationEditor (848)
+[2022.06.01-12.58.04:105][643]LogModuleManager: Shutting down and abandoning module OpenXRInput (846)
+[2022.06.01-12.58.04:105][643]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (844)
+[2022.06.01-12.58.04:106][643]LogModuleManager: Shutting down and abandoning module TakeRecorder (843)
+[2022.06.01-12.58.04:107][643]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (840)
+[2022.06.01-12.58.04:108][643]LogModuleManager: Shutting down and abandoning module TakesCore (838)
+[2022.06.01-12.58.04:108][643]LogModuleManager: Shutting down and abandoning module GooglePADEditor (836)
+[2022.06.01-12.58.04:108][643]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (834)
+[2022.06.01-12.58.04:108][643]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (832)
+[2022.06.01-12.58.04:108][643]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (830)
+[2022.06.01-12.58.04:109][643]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (828)
+[2022.06.01-12.58.04:109][643]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (826)
+[2022.06.01-12.58.04:110][643]LogModuleManager: Shutting down and abandoning module PlanarCut (824)
+[2022.06.01-12.58.04:110][643]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (822)
+[2022.06.01-12.58.04:110][643]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (820)
+[2022.06.01-12.58.04:110][643]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (818)
+[2022.06.01-12.58.04:111][643]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (816)
+[2022.06.01-12.58.04:111][643]LogModuleManager: Shutting down and abandoning module WebMMedia (814)
+[2022.06.01-12.58.04:111][643]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (812)
+[2022.06.01-12.58.04:112][643]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (810)
+[2022.06.01-12.58.04:112][643]LogModuleManager: Shutting down and abandoning module SequenceRecorder (809)
+[2022.06.01-12.58.04:113][643]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (806)
+[2022.06.01-12.58.04:113][643]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (804)
+[2022.06.01-12.58.04:113][643]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (802)
+[2022.06.01-12.58.04:113][643]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (800)
+[2022.06.01-12.58.04:113][643]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (798)
+[2022.06.01-12.58.04:113][643]LogModuleManager: Shutting down and abandoning module CharacterAI (796)
+[2022.06.01-12.58.04:113][643]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (794)
+[2022.06.01-12.58.04:113][643]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (792)
+[2022.06.01-12.58.04:113][643]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (790)
+[2022.06.01-12.58.04:113][643]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (788)
+[2022.06.01-12.58.04:113][643]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (786)
+[2022.06.01-12.58.04:113][643]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (784)
+[2022.06.01-12.58.04:113][643]LogModuleManager: Shutting down and abandoning module SmartSnapping (782)
+[2022.06.01-12.58.04:113][643]LogModuleManager: Shutting down and abandoning module SessionServices (780)
+[2022.06.01-12.58.04:122][643]LogModuleManager: Shutting down and abandoning module MeshPaint (778)
+[2022.06.01-12.58.04:123][643]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2022.06.01-12.58.04:123][643]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2022.06.01-12.58.04:124][643]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2022.06.01-12.58.04:126][643]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2022.06.01-12.58.04:126][643]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2022.06.01-12.58.04:126][643]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2022.06.01-12.58.04:126][643]LogModuleManager: Shutting down and abandoning module PlacementMode (764)
+[2022.06.01-12.58.04:126][643]LogModuleManager: Shutting down and abandoning module ViewportSnapping (762)
+[2022.06.01-12.58.04:126][643]LogModuleManager: Shutting down and abandoning module ViewportInteraction (760)
+[2022.06.01-12.58.04:126][643]LogModuleManager: Shutting down and abandoning module ClothPainter (758)
+[2022.06.01-12.58.04:127][643]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (757)
+[2022.06.01-12.58.04:127][643]LogModuleManager: Shutting down and abandoning module LogVisualizer (754)
+[2022.06.01-12.58.04:129][643]LogModuleManager: Shutting down and abandoning module IntroTutorials (752)
+[2022.06.01-12.58.04:129][643]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (751)
+[2022.06.01-12.58.04:130][643]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (748)
+[2022.06.01-12.58.04:130][643]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (746)
+[2022.06.01-12.58.04:130][643]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (744)
+[2022.06.01-12.58.04:130][643]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (743)
+[2022.06.01-12.58.04:269][643]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (740)
+[2022.06.01-12.58.04:269][643]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (738)
+[2022.06.01-12.58.04:269][643]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (736)
+[2022.06.01-12.58.04:269][643]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (734)
+[2022.06.01-12.58.04:269][643]LogModuleManager: Shutting down and abandoning module TraceInsights (732)
+[2022.06.01-12.58.04:272][643]MemoryProfiler: Shutdown
+[2022.06.01-12.58.04:272][643]NetworkingProfiler: Shutdown
+[2022.06.01-12.58.04:272][643]LoadingProfiler: Shutdown
+[2022.06.01-12.58.04:273][643]TimingProfiler: Shutdown
+[2022.06.01-12.58.04:275][643]LogModuleManager: Shutting down and abandoning module TraceServices (731)
+[2022.06.01-12.58.04:276][643]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (728)
+[2022.06.01-12.58.04:276][643]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (726)
+[2022.06.01-12.58.04:276][643]LogModuleManager: Shutting down and abandoning module InputBindingEditor (724)
+[2022.06.01-12.58.04:277][643]LogModuleManager: Shutting down and abandoning module MergeActors (722)
+[2022.06.01-12.58.04:277][643]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (720)
+[2022.06.01-12.58.04:278][643]LogModuleManager: Shutting down and abandoning module LocalizationService (719)
+[2022.06.01-12.58.04:278][643]LogModuleManager: Shutting down and abandoning module HardwareTargeting (716)
+[2022.06.01-12.58.04:278][643]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (714)
+[2022.06.01-12.58.04:278][643]LogModuleManager: Shutting down and abandoning module UndoHistory (712)
+[2022.06.01-12.58.04:279][643]LogModuleManager: Shutting down and abandoning module XmlParser (710)
+[2022.06.01-12.58.04:279][643]LogModuleManager: Shutting down and abandoning module Blutility (708)
+[2022.06.01-12.58.04:279][643]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (706)
+[2022.06.01-12.58.04:280][643]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (705)
+[2022.06.01-12.58.04:280][643]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (702)
+[2022.06.01-12.58.04:280][643]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (701)
+[2022.06.01-12.58.04:280][643]LogModuleManager: Shutting down and abandoning module SettingsEditor (698)
+[2022.06.01-12.58.04:281][643]LogModuleManager: Shutting down and abandoning module ProjectLauncher (696)
+[2022.06.01-12.58.04:281][643]LogModuleManager: Shutting down and abandoning module SessionFrontend (694)
+[2022.06.01-12.58.04:281][643]LogModuleManager: Shutting down and abandoning module ProfilerClient (692)
+[2022.06.01-12.58.04:282][643]LogModuleManager: Shutting down and abandoning module DeviceManager (690)
+[2022.06.01-12.58.04:282][643]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (689)
+[2022.06.01-12.58.04:315][643]LogModuleManager: Shutting down and abandoning module AutomationController (686)
+[2022.06.01-12.58.04:316][643]LogModuleManager: Shutting down and abandoning module AutomationWindow (684)
+[2022.06.01-12.58.04:316][643]LogModuleManager: Shutting down and abandoning module Layers (682)
+[2022.06.01-12.58.04:318][643]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (680)
+[2022.06.01-12.58.04:318][643]LogModuleManager: Shutting down and abandoning module DetailCustomizations (678)
+[2022.06.01-12.58.04:318][643]LogModuleManager: Shutting down and abandoning module PackagesDialog (676)
+[2022.06.01-12.58.04:318][643]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (674)
+[2022.06.01-12.58.04:319][643]LogModuleManager: Shutting down and abandoning module Persona (672)
+[2022.06.01-12.58.04:320][643]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (671)
+[2022.06.01-12.58.04:320][643]LogModuleManager: Shutting down and abandoning module AnimGraph (669)
+[2022.06.01-12.58.04:320][643]LogModuleManager: Shutting down and abandoning module Kismet (666)
+[2022.06.01-12.58.04:354][643]LogModuleManager: Shutting down and abandoning module KismetWidgets (665)
+[2022.06.01-12.58.04:354][643]LogModuleManager: Shutting down and abandoning module GraphEditor (662)
+[2022.06.01-12.58.04:355][643]LogModuleManager: Shutting down and abandoning module StructViewer (660)
+[2022.06.01-12.58.04:355][643]LogModuleManager: Shutting down and abandoning module ClassViewer (658)
+[2022.06.01-12.58.04:355][643]LogModuleManager: Shutting down and abandoning module Toolbox (656)
+[2022.06.01-12.58.04:355][643]LogModuleManager: Shutting down and abandoning module ModuleUI (654)
+[2022.06.01-12.58.04:355][643]LogModuleManager: Shutting down and abandoning module OutputLog (652)
+[2022.06.01-12.58.04:358][643]LogModuleManager: Shutting down and abandoning module GammaUI (650)
+[2022.06.01-12.58.04:358][643]LogModuleManager: Shutting down and abandoning module Documentation (648)
+[2022.06.01-12.58.04:359][643]LogModuleManager: Shutting down and abandoning module LiveCoding (646)
+[2022.06.01-12.58.04:360][643]LogModuleManager: Shutting down and abandoning module LevelSequence (644)
+[2022.06.01-12.58.04:360][643]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (642)
+[2022.06.01-12.58.04:360][643]LogModuleManager: Shutting down and abandoning module MovieScene (640)
+[2022.06.01-12.58.04:361][643]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (638)
+[2022.06.01-12.58.04:362][643]LogModuleManager: Shutting down and abandoning module LauncherPlatform (636)
+[2022.06.01-12.58.04:362][643]LogModuleManager: Shutting down and abandoning module AnalyticsET (634)
+[2022.06.01-12.58.04:362][643]LogModuleManager: Shutting down and abandoning module PortalServices (632)
+[2022.06.01-12.58.04:362][643]LogModuleManager: Shutting down and abandoning module PortalRpc (630)
+[2022.06.01-12.58.04:362][643]LogModuleManager: Shutting down and abandoning module MessagingRpc (628)
+[2022.06.01-12.58.04:362][643]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (626)
+[2022.06.01-12.58.04:362][643]LogModuleManager: Shutting down and abandoning module AudioMixerCore (625)
+[2022.06.01-12.58.04:362][643]LogModuleManager: Shutting down and abandoning module AIModule (622)
+[2022.06.01-12.58.04:362][643]LogModuleManager: Shutting down and abandoning module GameplayDebugger (621)
+[2022.06.01-12.58.04:362][643]LogModuleManager: Shutting down and abandoning module AITestSuite (619)
+[2022.06.01-12.58.04:362][643]LogModuleManager: Shutting down and abandoning module NavigationSystem (617)
+[2022.06.01-12.58.04:362][643]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (614)
+[2022.06.01-12.58.04:376][643]LogModuleManager: Shutting down and abandoning module ProfilerService (612)
+[2022.06.01-12.58.04:424][643]LogModuleManager: Shutting down and abandoning module TaskGraph (610)
+[2022.06.01-12.58.04:425][643]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (608)
+[2022.06.01-12.58.04:425][643]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (606)
+[2022.06.01-12.58.04:425][643]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (604)
+[2022.06.01-12.58.04:425][643]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (602)
+[2022.06.01-12.58.04:425][643]LogModuleManager: Shutting down and abandoning module CollectionManager (601)
+[2022.06.01-12.58.04:426][643]LogModuleManager: Shutting down and abandoning module OculusEditor (598)
+[2022.06.01-12.58.04:429][643]LogModuleManager: Shutting down and abandoning module OculusInput (596)
+[2022.06.01-12.58.04:429][643]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (594)
+[2022.06.01-12.58.04:430][643]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (592)
+[2022.06.01-12.58.04:430][643]LogModuleManager: Shutting down and abandoning module UObjectPlugin (590)
+[2022.06.01-12.58.04:430][643]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (588)
+[2022.06.01-12.58.04:432][643]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (586)
+[2022.06.01-12.58.04:432][643]LogModuleManager: Shutting down and abandoning module PluginUtils (584)
+[2022.06.01-12.58.04:432][643]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (582)
+[2022.06.01-12.58.04:434][643]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (580)
+[2022.06.01-12.58.04:434][643]LogModuleManager: Shutting down and abandoning module GitSourceControl (578)
+[2022.06.01-12.58.04:435][643]LogModuleManager: Shutting down and abandoning module SourceControl (577)
+[2022.06.01-12.58.04:435][643]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (574)
+[2022.06.01-12.58.04:435][643]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (572)
+[2022.06.01-12.58.04:435][643]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (570)
+[2022.06.01-12.58.04:435][643]LogModuleManager: Shutting down and abandoning module PluginBrowser (568)
+[2022.06.01-12.58.04:437][643]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (566)
+[2022.06.01-12.58.04:437][643]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (564)
+[2022.06.01-12.58.04:438][643]LogModuleManager: Shutting down and abandoning module CurveEditorTools (562)
+[2022.06.01-12.58.04:439][643]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (560)
+[2022.06.01-12.58.04:439][643]LogModuleManager: Shutting down and abandoning module CryptoKeys (558)
+[2022.06.01-12.58.04:439][643]LogModuleManager: Shutting down and abandoning module SynthesisEditor (556)
+[2022.06.01-12.58.04:439][643]LogModuleManager: Shutting down and abandoning module Synthesis (554)
+[2022.06.01-12.58.04:440][643]LogModuleManager: Shutting down and abandoning module SoundVisualizations (552)
+[2022.06.01-12.58.04:440][643]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (550)
+[2022.06.01-12.58.04:440][643]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (548)
+[2022.06.01-12.58.04:440][643]LogModuleManager: Shutting down and abandoning module OpenXREditor (546)
+[2022.06.01-12.58.04:441][643]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (544)
+[2022.06.01-12.58.04:441][643]LogModuleManager: Shutting down and abandoning module TakeSequencer (542)
+[2022.06.01-12.58.04:441][643]LogModuleManager: Shutting down and abandoning module TakeMovieScene (540)
+[2022.06.01-12.58.04:441][643]LogModuleManager: Shutting down and abandoning module GooglePAD (538)
+[2022.06.01-12.58.04:441][643]LogModuleManager: Shutting down and abandoning module EditableMesh (536)
+[2022.06.01-12.58.04:442][643]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (534)
+[2022.06.01-12.58.04:442][643]LogModuleManager: Shutting down and abandoning module CableComponent (532)
+[2022.06.01-12.58.04:442][643]LogModuleManager: Shutting down and abandoning module AudioCapture (530)
+[2022.06.01-12.58.04:442][643]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (529)
+[2022.06.01-12.58.04:442][643]LogModuleManager: Shutting down and abandoning module AssetTags (526)
+[2022.06.01-12.58.04:442][643]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (524)
+[2022.06.01-12.58.04:442][643]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (522)
+[2022.06.01-12.58.04:442][643]LogModuleManager: Shutting down and abandoning module AppleImageUtils (520)
+[2022.06.01-12.58.04:442][643]LogModuleManager: Shutting down and abandoning module AndroidPermission (518)
+[2022.06.01-12.58.04:442][643]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (516)
+[2022.06.01-12.58.04:442][643]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (514)
+[2022.06.01-12.58.04:442][643]LogModuleManager: Shutting down and abandoning module ScreenshotTools (512)
+[2022.06.01-12.58.04:442][643]LogModuleManager: Shutting down and abandoning module TemplateSequence (510)
+[2022.06.01-12.58.04:443][643]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (508)
+[2022.06.01-12.58.04:443][643]LogOpenImageDenoise: OIDN shutting down
+[2022.06.01-12.58.04:443][643]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (506)
+[2022.06.01-12.58.04:443][643]LogModuleManager: Shutting down and abandoning module MotoSynth (504)
+[2022.06.01-12.58.04:443][643]LogModuleManager: Shutting down and abandoning module MeshConversion (502)
+[2022.06.01-12.58.04:443][643]LogModuleManager: Shutting down and abandoning module DynamicMesh (500)
+[2022.06.01-12.58.04:444][643]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (498)
+[2022.06.01-12.58.04:444][643]LogModuleManager: Shutting down and abandoning module GeometricObjects (496)
+[2022.06.01-12.58.04:444][643]LogModuleManager: Shutting down and abandoning module MediaCompositing (494)
+[2022.06.01-12.58.04:445][643]LogModuleManager: Shutting down and abandoning module ImgMedia (492)
+[2022.06.01-12.58.04:445][643]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (490)
+[2022.06.01-12.58.04:445][643]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (489)
+[2022.06.01-12.58.04:445][643]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (486)
+[2022.06.01-12.58.04:445][643]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (484)
+[2022.06.01-12.58.04:445][643]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (482)
+[2022.06.01-12.58.04:445][643]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (480)
+[2022.06.01-12.58.04:445][643]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (478)
+[2022.06.01-12.58.04:445][643]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (476)
+[2022.06.01-12.58.04:445][643]LogModuleManager: Shutting down and abandoning module ChaosNiagara (474)
+[2022.06.01-12.58.04:445][643]LogModuleManager: Shutting down and abandoning module FractureEditor (472)
+[2022.06.01-12.58.04:446][643]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (471)
+[2022.06.01-12.58.04:446][643]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (468)
+[2022.06.01-12.58.04:446][643]LogModuleManager: Shutting down and abandoning module BackChannel (466)
+[2022.06.01-12.58.04:447][643]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (464)
+[2022.06.01-12.58.04:447][643]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (462)
+[2022.06.01-12.58.04:447][643]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (460)
+[2022.06.01-12.58.04:447][643]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (458)
+[2022.06.01-12.58.04:447][643]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (456)
+[2022.06.01-12.58.04:447][643]LogModuleManager: Shutting down and abandoning module AutomationUtils (454)
+[2022.06.01-12.58.04:447][643]LogModuleManager: Shutting down and abandoning module AlembicImporter (452)
+[2022.06.01-12.58.04:448][643]LogModuleManager: Shutting down and abandoning module AlembicLibrary (451)
+[2022.06.01-12.58.04:448][643]LogModuleManager: Shutting down and abandoning module GeometryCache (450)
+[2022.06.01-12.58.04:448][643]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (449)
+[2022.06.01-12.58.04:448][643]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (444)
+[2022.06.01-12.58.04:450][643]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (442)
+[2022.06.01-12.58.04:450][643]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (440)
+[2022.06.01-12.58.04:450][643]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (438)
+[2022.06.01-12.58.04:450][643]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2022.06.01-12.58.04:450][643]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (434)
+[2022.06.01-12.58.04:450][643]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (432)
+[2022.06.01-12.58.04:450][643]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (430)
+[2022.06.01-12.58.04:451][643]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (428)
+[2022.06.01-12.58.04:452][643]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (426)
+[2022.06.01-12.58.04:452][643]LogModuleManager: Shutting down and abandoning module LiveLink (424)
+[2022.06.01-12.58.04:786][643]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (422)
+[2022.06.01-12.58.04:787][643]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (420)
+[2022.06.01-12.58.04:798][643]LogModuleManager: Shutting down and abandoning module Paper2DEditor (418)
+[2022.06.01-12.58.04:800][643]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (416)
+[2022.06.01-12.58.04:800][643]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (414)
+[2022.06.01-12.58.04:801][643]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (412)
+[2022.06.01-12.58.04:801][643]LogModuleManager: Shutting down and abandoning module AnimationSharing (410)
+[2022.06.01-12.58.04:801][643]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (408)
+[2022.06.01-12.58.04:802][643]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (406)
+[2022.06.01-12.58.04:802][643]LogModuleManager: Shutting down and abandoning module FacialAnimation (404)
+[2022.06.01-12.58.04:802][643]LogModuleManager: Shutting down and abandoning module DataValidation (402)
+[2022.06.01-12.58.04:802][643]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (400)
+[2022.06.01-12.58.04:803][643]LogModuleManager: Shutting down and abandoning module LevelEditor (399)
+[2022.06.01-12.58.04:810][643]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (398)
+[2022.06.01-12.58.04:811][643]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (396)
+[2022.06.01-12.58.04:811][643]LogModuleManager: Shutting down and abandoning module MainFrame (394)
+[2022.06.01-12.58.04:811][643]LogModuleManager: Shutting down and abandoning module HotReload (393)
+[2022.06.01-12.58.04:812][643]LogModuleManager: Shutting down and abandoning module ToolMenus (389)
+[2022.06.01-12.58.04:812][643]LogModuleManager: Shutting down and abandoning module TreeMap (387)
+[2022.06.01-12.58.04:813][643]LogModuleManager: Shutting down and abandoning module Spatialization (384)
+[2022.06.01-12.58.04:813][643]LogModuleManager: Shutting down and abandoning module SignificanceManager (382)
+[2022.06.01-12.58.04:813][643]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (380)
+[2022.06.01-12.58.04:813][643]LogModuleManager: Shutting down and abandoning module SoundFields (378)
+[2022.06.01-12.58.04:813][643]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (376)
+[2022.06.01-12.58.04:814][643]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (374)
+[2022.06.01-12.58.04:814][643]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (370)
+[2022.06.01-12.58.04:814][643]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (368)
+[2022.06.01-12.58.04:814][643]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (366)
+[2022.06.01-12.58.04:814][643]LogModuleManager: Shutting down and abandoning module TcpMessaging (364)
+[2022.06.01-12.58.04:916][643]LogModuleManager: Shutting down and abandoning module UdpMessaging (362)
+[2022.06.01-12.58.05:017][643]LogModuleManager: Shutting down and abandoning module ActorSequence (360)
+[2022.06.01-12.58.05:017][643]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (358)
+[2022.06.01-12.58.05:017][643]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (356)
+[2022.06.01-12.58.05:017][643]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (354)
+[2022.06.01-12.58.05:017][643]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (352)
+[2022.06.01-12.58.05:017][643]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (350)
+[2022.06.01-12.58.05:017][643]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (348)
+[2022.06.01-12.58.05:017][643]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (346)
+[2022.06.01-12.58.05:018][643]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.06.01-12.58.05:018][643]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (344)
+[2022.06.01-12.58.05:018][643]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (342)
+[2022.06.01-12.58.05:018][643]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (340)
+[2022.06.01-12.58.05:019][643]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (338)
+[2022.06.01-12.58.05:019][643]LogModuleManager: Shutting down and abandoning module MagicLeapController (336)
+[2022.06.01-12.58.05:019][643]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (334)
+[2022.06.01-12.58.05:019][643]LogModuleManager: Shutting down and abandoning module MagicLeapAR (332)
+[2022.06.01-12.58.05:019][643]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (330)
+[2022.06.01-12.58.05:019][643]LogModuleManager: Shutting down and abandoning module Niagara (328)
+[2022.06.01-12.58.05:020][643]LogModuleManager: Shutting down and abandoning module SignalProcessing (327)
+[2022.06.01-12.58.05:020][643]LogModuleManager: Shutting down and abandoning module NiagaraEditor (325)
+[2022.06.01-12.58.05:022][643]LogModuleManager: Shutting down and abandoning module ContentBrowser (324)
+[2022.06.01-12.58.05:022][643]LogModuleManager: Shutting down and abandoning module ContentBrowserData (323)
+[2022.06.01-12.58.05:022][643]LogModuleManager: Shutting down and abandoning module NiagaraCore (318)
+[2022.06.01-12.58.05:022][643]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (316)
+[2022.06.01-12.58.05:022][643]LogModuleManager: Shutting down and abandoning module GameplayCameras (314)
+[2022.06.01-12.58.05:022][643]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.06.01-12.58.05:023][643]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.06.01-12.58.05:023][643]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.06.01-12.58.05:049][643]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.06.01-12.58.05:049][643]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.06.01-12.58.05:049][643]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.06.01-12.58.05:049][643]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.06.01-12.58.05:049][643]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.06.01-12.58.05:050][643]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.06.01-12.58.05:050][643]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.06.01-12.58.05:050][643]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.06.01-12.58.05:050][643]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.06.01-12.58.05:050][643]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.06.01-12.58.05:050][643]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.06.01-12.58.05:050][643]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.06.01-12.58.05:051][643]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.06.01-12.58.05:052][643]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.06.01-12.58.05:052][643]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.06.01-12.58.05:053][643]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.06.01-12.58.05:053][643]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.06.01-12.58.05:053][643]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.06.01-12.58.05:053][643]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.06.01-12.58.05:055][643]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.06.01-12.58.05:055][643]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.06.01-12.58.05:058][643]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.06.01-12.58.05:058][643]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.06.01-12.58.05:058][643]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.06.01-12.58.05:058][643]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.06.01-12.58.05:058][643]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.06.01-12.58.05:058][643]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.06.01-12.58.05:059][643]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.06.01-12.58.05:059][643]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.06.01-12.58.05:059][643]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.06.01-12.58.05:059][643]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.06.01-12.58.05:059][643]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.06.01-12.58.05:060][643]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.06.01-12.58.05:062][643]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.06.01-12.58.05:068][643]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.06.01-12.58.05:068][643]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.06.01-12.58.05:068][643]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.06.01-12.58.05:069][643]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.06.01-12.58.05:069][643]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.06.01-12.58.05:069][643]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.06.01-12.58.05:070][643]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.06.01-12.58.05:070][643]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.06.01-12.58.05:071][643]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.06.01-12.58.05:071][643]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.06.01-12.58.05:072][643]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.06.01-12.58.05:072][643]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.06.01-12.58.05:073][643]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.06.01-12.58.05:074][643]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.06.01-12.58.05:075][643]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.06.01-12.58.05:075][643]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.06.01-12.58.05:076][643]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.06.01-12.58.05:076][643]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.06.01-12.58.05:076][643]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.06.01-12.58.05:076][643]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.06.01-12.58.05:076][643]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.06.01-12.58.05:076][643]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.06.01-12.58.05:076][643]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.06.01-12.58.05:077][643]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.06.01-12.58.05:077][643]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.06.01-12.58.05:077][643]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.06.01-12.58.05:077][643]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.06.01-12.58.05:077][643]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.06.01-12.58.05:077][643]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.06.01-12.58.05:077][643]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.06.01-12.58.05:077][643]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.06.01-12.58.05:078][643]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.06.01-12.58.05:078][643]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.06.01-12.58.05:078][643]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.06.01-12.58.05:090][643]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.06.01-12.58.05:090][643]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.06.01-12.58.05:090][643]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.06.01-12.58.05:090][643]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.06.01-12.58.05:090][643]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.06.01-12.58.05:108][643]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.06.01-12.58.05:108][643]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.06.01-12.58.05:108][643]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.06.01-12.58.05:108][643]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.06.01-12.58.05:108][643]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.06.01-12.58.05:108][643]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.06.01-12.58.05:109][643]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.06.01-12.58.05:109][643]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.06.01-12.58.05:109][643]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.06.01-12.58.05:113][643]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.06.01-12.58.05:139][643]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.06.01-12.58.05:139][643]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.06.01-12.58.05:139][643]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.06.01-12.58.05:139][643]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.06.01-12.58.05:139][643]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.06.01-12.58.05:140][643]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.06.01-12.58.05:140][643]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.06.01-12.58.05:140][643]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.06.01-12.58.05:141][643]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.06.01-12.58.05:141][643]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.06.01-12.58.05:141][643]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.06.01-12.58.05:141][643]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.06.01-12.58.05:141][643]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.06.01-12.58.05:142][643]LogHMD: Freeing OpenVRDLLHandle.
+[2022.06.01-12.58.05:142][643]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.06.01-12.58.05:142][643]LogModuleManager: Shutting down and abandoning module PixWinPlugin (108)
+[2022.06.01-12.58.05:142][643]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.06.01-12.58.05:142][643]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (104)
+[2022.06.01-12.58.05:142][643]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.06.01-12.58.05:143][643]LogModuleManager: Shutting down and abandoning module OpenXRAR (102)
+[2022.06.01-12.58.05:143][643]LogModuleManager: Shutting down and abandoning module AugmentedReality (101)
+[2022.06.01-12.58.05:143][643]LogModuleManager: Shutting down and abandoning module OpenXRHMD (98)
+[2022.06.01-12.58.05:144][643]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2022.06.01-12.58.05:144][643]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2022.06.01-12.58.05:144][643]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2022.06.01-12.58.05:144][643]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2022.06.01-12.58.05:144][643]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2022.06.01-12.58.05:147][643]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2022.06.01-12.58.05:148][643]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2022.06.01-12.58.05:175][643]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2022.06.01-12.58.05:175][643]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.06.01-12.58.05:176][643]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEEA01439-4592-FAF5-0118-5FB5C88C7DDB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=609299b447a0b6e9cc1d4ca11ba6f46a%7Cdcb7437a8edc4d9385042a457e8190b8%7C5a72dbb3-6bda-4939-915d-455ccf9cf4bb&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.06.01-12.58.05:176][643]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.06.01-12.58.05:201][643]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2022.06.01-12.58.05:206][643]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2022.06.01-12.58.05:211][643]LogModuleManager: Shutting down and abandoning module Media (71)
+[2022.06.01-12.58.05:213][643]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2022.06.01-12.58.05:213][643]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.06.01-12.58.05:213][643]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.06.01-12.58.05:214][643]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2022.06.01-12.58.05:214][643]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2022.06.01-12.58.05:214][643]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2022.06.01-12.58.05:214][643]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2022.06.01-12.58.05:214][643]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2022.06.01-12.58.05:214][643]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2022.06.01-12.58.05:215][643]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.06.01-12.58.05:215][643]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.06.01-12.58.05:215][643]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.06.01-12.58.05:216][643]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.06.01-12.58.05:216][643]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.06.01-12.58.05:216][643]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (40)
+[2022.06.01-12.58.05:216][643]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.06.01-12.58.05:217][643]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.06.01-12.58.05:218][643]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.06.01-12.58.05:218][643]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.06.01-12.58.05:220][643]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.06.01-12.58.05:220][643]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.06.01-12.58.05:220][643]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.06.01-12.58.05:220][643]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.06.01-12.58.05:220][643]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.06.01-12.58.05:223][643]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.06.01-12.58.05:224][643]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.06.01-12.58.05:224][643]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.06.01-12.58.05:225][643]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.06.01-12.58.05:225][643]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.06.01-12.58.05:225][643]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.06.01-12.58.05:225][643]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.06.01-12.58.05:226][643]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.06.01-12.58.05:226][643]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.06.01-12.58.05:226][643]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.06.01-12.58.05:226][643]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.06.01-12.58.05:331][643]LogD3D11RHI: Shutdown
+[2022.06.01-12.58.05:331][643]LogD3D11RHI: CleanupD3DDevice
+[2022.06.01-12.58.05:351][643]LogExit: Exiting.
+[2022.06.01-12.58.05:418][643]Log file closed, 06/01/22 14:58:05
