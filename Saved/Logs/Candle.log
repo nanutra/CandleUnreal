@@ -996,3 +996,285 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.06-10.17.05:594][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.06.06-10.17.06:654][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
 [2022.06.06-10.17.14:876][124]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.06.06-10.17.30:596][584]MapCheck: New page: Map Check
+[2022.06.06-10.17.30:621][584]Cmd: MAP REBUILD ALLVISIBLE
+[2022.06.06-10.17.30:621][584]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.06.06-10.17.44:468][584]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.SprinteInteract_4.RenderComponent)
+[2022.06.06-10.17.44:468][584]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.interract_Sprite_7.RenderComponent)
+[2022.06.06-10.17.44:477][584]LogWorld: UWorld::CleanupWorld for MaisonV2, bSessionEnded=true, bCleanupResources=false
+[2022.06.06-10.17.45:402][584]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.17.45:405][584]LogEditorServer: Cleared 271 NULL BSP materials after rebuild.
+[2022.06.06-10.17.45:405][584]LightingResults: New page: Lighting Build - 6 juin 2022 à 14:17:45
+[2022.06.06-10.17.45:536][584]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.06.06-10.17.45:612][584]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.06.06-10.17.45:634][584]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.06.06-10.17.46:166][584]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.06.06-10.17.46:166][584]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5576
+[2022.06.06-10.18.00:167][584]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.06.06-10.18.00:177][584]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.06.06-10.18.00:177][584]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.06.06-10.18.00:177][584]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.06.06-10.18.00:177][584]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.06.06-10.18.00:177][584]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.06.06-10.18.00:524][584]LogEditorBuildUtils: Build time 0:29
+[2022.06.06-10.18.00:547][584]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.06-10.18.00:547][584]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.06.06-10.18.00:547][584]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.06-10.18.00:547][584]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.06.06-10.18.00:547][584]LogShaderCompilers: Display: ================================================
+[2022.06.06-10.18.00:966][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.06.06-10.18.39:829][401]Job is a success!
+[2022.06.06-10.18.40:056][401]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2022.06.06-10.18.40:056][401]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.06.06-10.18.40:056][401]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 1.2Mb due to 0.010000 MinBrickError)
+[2022.06.06-10.18.40:056][401]LogVolumetricLightmapImport:      Bricks at depth
+[2022.06.06-10.18.40:057][401]LogVolumetricLightmapImport:          0: 5.9% covering 100.0% of volume
+[2022.06.06-10.18.40:057][401]LogVolumetricLightmapImport:          1: 58.8% covering 15.6% of volume
+[2022.06.06-10.18.40:057][401]LogVolumetricLightmapImport:          2: 35.3% covering 0.1% of volume
+[2022.06.06-10.18.40:057][401]LogVolumetricLightmapImport:      Bricks in each level
+[2022.06.06-10.18.40:057][401]LogVolumetricLightmapImport:          MaisonV2 			 17 bricks 	 100.0% (Persistent Level)
+[2022.06.06-10.18.40:898][401]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.06.06-10.18.40:898][401]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.06.06-10.18.40:898][401]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2022.06.06-10.18.40:898][401]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2022.06.06-10.18.40:898][401]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.06-10.18.40:898][401]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2022.06.06-10.18.40:898][401]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.06-10.18.40:898][401]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.06-10.18.40:898][401]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.06-10.18.40:898][401]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 64X64)
+[2022.06.06-10.18.40:898][401]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2022.06.06-10.18.40:898][401]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.06-10.18.40:898][401]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 64X64)
+[2022.06.06-10.18.40:898][401]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.06-10.18.40:898][401]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X64)
+[2022.06.06-10.18.41:216][401]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2022.06.06-10.18.41:216][401]Lightmass on TLSS1704: 39.4 sec total, 4.79 sec importing, 100 ms setup, 3.67 sec photons, 30.8 sec processing, 0 ms extra exporting [3162/3162 mappings]. Threads: 5:39 min total, 3:52 min processing.
+[2022.06.06-10.18.41:240][401]LogStaticLightingSystem: MaisonV2_BuiltData storing lightmap data for 142 meshes in 5 LightmapResourceClusters (28.4 Meshes per cluster).
+[2022.06.06-10.18.41:352][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.06.06-10.18.41:530][401]LogStaticLightingSystem: Illumination: 56.0 sec (151 ms encoding lightmaps, 263 ms encoding shadowmaps)
+[2022.06.06-10.18.41:530][401]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (2.0 MB streaming, 4.0 MB non-streaming), 8 textures
+[2022.06.06-10.18.41:530][401]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.0 MB streaming, 1.3 MB non-streaming), 2 textures
+[2022.06.06-10.18.42:208][401]DumpUnbuiltLightIteractions
+[2022.06.06-10.18.42:208][401]Lights with unbuilt interactions: 0
+[2022.06.06-10.18.42:208][401]
+[2022.06.06-10.18.42:208][401]Primitives with unbuilt interactions: 0
+[2022.06.06-10.18.42:482][401]LogTexture: Display: Building textures: NewReflectionComponentTexture845CFACC4818E0CA196A98BE615F8541 (BGRA8, 128X128)
+[2022.06.06-10.18.42:544][402]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.06.06-10.18.42:544][402]MapCheck: New page: MaisonV2 - 6 juin 2022 à 14:18:42
+[2022.06.06-10.18.42:546][402]MapCheck: Warning: SpriteExample_2 'dessin3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2022.06.06-10.18.42:547][402]MapCheck: Warning: BP_PortesEnfants_2 Static mesh actor has NULL StaticMesh property 
+[2022.06.06-10.18.42:548][402]MapCheck: Warning: dessin24_Sprite_53 'dessin24_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2022.06.06-10.18.42:548][402]MapCheck: Warning: dessin24_Sprite2 'dessin24_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2022.06.06-10.18.42:549][402]MapCheck: Warning: dessin24_Sprite3 'dessin24_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2022.06.06-10.18.42:549][402]MapCheck: Warning: dessin24_Sprite4 'dessin24_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2022.06.06-10.18.42:549][402]MapCheck: Warning: SpriteExample2 'dessin3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2022.06.06-10.18.42:549][402]MapCheck: Warning: SpriteExample3 'dessin3_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2022.06.06-10.18.42:549][402]MapCheck: Warning: FirstPersonCharacter_2 Static mesh actor has NULL StaticMesh property 
+[2022.06.06-10.18.42:549][402]MapCheck: Warning: FirstPersonCharacter_2 Static mesh actor has NULL StaticMesh property 
+[2022.06.06-10.18.42:550][402]MapCheck: Map check complete: 0 Error(s), 10 Warning(s), took 5,332ms to complete.
+[2022.06.06-10.19.16:533][667]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.06-10.19.26:313][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.06-10.19.26:351][326]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.06.06-10.19.27:118][326]LogSavePackage: Moving '../../../../../Githu/CandleUnreal/Saved/MaisonV23066261F49EB51DD34B7BB974EA2FD57.tmp' to '../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.06.06-10.19.27:163][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2_BuiltData" FILE="../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset" SILENT=true
+[2022.06.06-10.19.27:265][326]LogSavePackage: Moving '../../../../../Githu/CandleUnreal/Saved/MaisonV2_BuiltData6758A13843AD45524C8601A7B42A26A6.tmp' to '../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset'
+[2022.06.06-10.19.27:297][326]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.06-10.19.27:297][326]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MaisonV2_BuiltData.MaisonV2_BuiltData
+[2022.06.06-10.19.27:297][326]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.06.06-10.19.49:167][401]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/Players_BP/BP_Player.BP_Player
+[2022.06.06-10.19.49:564][401]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_21:PersistentLevel.BP_Player_C_0
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.19.55:041][760]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.19.55:072][760]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_17:PersistentLevel.BP_Player_C_0
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.19.55:075][760]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_21:PersistentLevel.BP_Player_C_0
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.19.55:078][760]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.19.55:111][760]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_17:PersistentLevel.BP_Player_C_0
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.19.55:114][760]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_21:PersistentLevel.BP_Player_C_0
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.19.57:517][948]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.19.57:549][948]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_17:PersistentLevel.BP_Player_C_0
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.19.57:551][948]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_21:PersistentLevel.BP_Player_C_0
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.19.57:555][948]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.19.57:589][948]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_17:PersistentLevel.BP_Player_C_0
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.19.57:592][948]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_21:PersistentLevel.BP_Player_C_0
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.06:430][537]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.06:466][537]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_17:PersistentLevel.BP_Player_C_0
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.06:469][537]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_21:PersistentLevel.BP_Player_C_0
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.12:199][989]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.12:230][989]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_17:PersistentLevel.BP_Player_C_0
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.12:233][989]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_21:PersistentLevel.BP_Player_C_0
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.12:236][989]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.12:269][989]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_17:PersistentLevel.BP_Player_C_0
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.12:272][989]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_21:PersistentLevel.BP_Player_C_0
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.21:784][693]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.23:248][803]BlueprintLog: New page: Compile BP_Player
+[2022.06.06-10.20.23:320][803]LogBlueprint: Error: [AssetLog] D:\GD2\Githu\CandleUnreal\Content\BluePrint\Players_BP\BP_Player.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2022.06.06-10.20.23:323][803]LogBlueprint: Error: [AssetLog] D:\GD2\Githu\CandleUnreal\Content\BluePrint\Players_BP\BP_Player.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2022.06.06-10.20.23:323][803]LogBlueprint: Error: [AssetLog] D:\GD2\Githu\CandleUnreal\Content\BluePrint\Players_BP\BP_Player.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2022.06.06-10.20.23:486][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.06.06-10.20.23:788][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Players_BP/BP_Player" FILE="../../../../../Githu/CandleUnreal/Content/BluePrint/Players_BP/BP_Player.uasset" SILENT=true
+[2022.06.06-10.20.24:108][814]LogSavePackage: Moving '../../../../../Githu/CandleUnreal/Saved/BP_Player3149C9FC44C2660D58405281D77BEF04.tmp' to '../../../../../Githu/CandleUnreal/Content/BluePrint/Players_BP/BP_Player.uasset'
+[2022.06.06-10.20.24:132][814]AssetCheck: New page: Asset Save: BP_Player
+[2022.06.06-10.20.24:132][814]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Players_BP/BP_Player.BP_Player
+[2022.06.06-10.20.44:446][254]LogEditorTransaction: Undo Delete current selection
+[2022.06.06-10.20.49:998][653]BlueprintLog: New page: Compile BP_Player
+[2022.06.06-10.20.50:150][653]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.50:188][653]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_17:PersistentLevel.BP_Player_C_1
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.50:257][653]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.06.06-10.20.50:269][653]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.50:276][653]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_17:PersistentLevel.BP_Player_C_1
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.50:278][653]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_17:PersistentLevel.BP_Player_C_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.50:299][653]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.50:305][653]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_17:PersistentLevel.BP_Player_C_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.50:816][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Players_BP/BP_Player" FILE="../../../../../Githu/CandleUnreal/Content/BluePrint/Players_BP/BP_Player.uasset" SILENT=true
+[2022.06.06-10.20.51:163][675]LogSavePackage: Moving '../../../../../Githu/CandleUnreal/Saved/BP_Player74714A5F4B5092E002B51DB0395021C9.tmp' to '../../../../../Githu/CandleUnreal/Content/BluePrint/Players_BP/BP_Player.uasset'
+[2022.06.06-10.20.51:199][675]AssetCheck: New page: Asset Save: BP_Player
+[2022.06.06-10.20.51:199][675]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Players_BP/BP_Player.BP_Player
+[2022.06.06-10.20.52:547][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.06-10.20.52:581][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.06.06-10.20.53:336][743]LogSavePackage: Moving '../../../../../Githu/CandleUnreal/Saved/MaisonV24F9CE1B74C783DC3E695738E3CB1AE03.tmp' to '../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.06.06-10.20.53:377][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2_BuiltData" FILE="../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset" SILENT=true
+[2022.06.06-10.20.53:475][743]LogSavePackage: Moving '../../../../../Githu/CandleUnreal/Saved/MaisonV2_BuiltData237E84F44999119260D449AF36775DD3.tmp' to '../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset'
+[2022.06.06-10.20.53:506][743]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.06-10.20.53:506][743]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MaisonV2_BuiltData.MaisonV2_BuiltData
+[2022.06.06-10.20.53:506][743]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.06.06-10.20.58:391][ 15]BlueprintLog: New page: Compile BP_Player
+[2022.06.06-10.20.58:563][ 15]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.58:601][ 15]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_17:PersistentLevel.BP_Player_C_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.58:662][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.06.06-10.20.58:674][ 15]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.58:682][ 15]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_17:PersistentLevel.BP_Player_C_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.58:685][ 15]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_17:PersistentLevel.BP_Player_C_3
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.58:706][ 15]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Game/Levels/MaisonV2.MaisonV2:PersistentLevel.FirstPersonCharacter_2
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.58:713][ 15]LogScript: Warning: Accessed None trying to read property instanceSkin
+	BP_Player_C /Engine/Transient.World_17:PersistentLevel.BP_Player_C_3
+	Function /Game/BluePrint/Players_BP/BP_Player.BP_Player_C:setEnabled:0250
+[2022.06.06-10.20.58:773][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Players_BP/BP_Player" FILE="../../../../../Githu/CandleUnreal/Content/BluePrint/Players_BP/BP_Player.uasset" SILENT=true
+[2022.06.06-10.20.59:085][ 15]LogSavePackage: Moving '../../../../../Githu/CandleUnreal/Saved/BP_Player2E12429A41347CED4E120C8EEC6730DA.tmp' to '../../../../../Githu/CandleUnreal/Content/BluePrint/Players_BP/BP_Player.uasset'
+[2022.06.06-10.20.59:110][ 15]AssetCheck: New page: Asset Save: BP_Player
+[2022.06.06-10.20.59:110][ 15]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Players_BP/BP_Player.BP_Player
+[2022.06.06-10.20.59:368][ 28]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-10.20.59:368][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-10.21.01:183][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.06-10.21.01:220][116]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2022.06.06-10.21.01:923][116]LogSavePackage: Moving '../../../../../Githu/CandleUnreal/Saved/MaisonV28AAAA8D74AF6D2E0774D0CAE290637F7.tmp' to '../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.06.06-10.21.01:947][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2_BuiltData" FILE="../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset" SILENT=true
+[2022.06.06-10.21.02:037][116]LogSavePackage: Moving '../../../../../Githu/CandleUnreal/Saved/MaisonV2_BuiltData5EA500654665B1EE1B605FBED5A574C9.tmp' to '../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset'
+[2022.06.06-10.21.02:057][116]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.06-10.21.02:057][116]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MaisonV2_BuiltData.MaisonV2_BuiltData
+[2022.06.06-10.21.02:057][116]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.06.06-10.21.02:390][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.06.06-10.21.02:546][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.06.06-10.21.30:541][209]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/Triggers/BP_PortesEnfants.BP_PortesEnfants
+[2022.06.06-10.21.51:382][156]BlueprintLog: New page: Compile BP_PortesEnfants
+[2022.06.06-10.21.51:459][156]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2022.06.06-10.21.52:000][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Triggers/BP_PortesEnfants" FILE="../../../../../Githu/CandleUnreal/Content/BluePrint/Triggers/BP_PortesEnfants.uasset" SILENT=true
+[2022.06.06-10.21.52:023][176]LogSavePackage: Moving '../../../../../Githu/CandleUnreal/Saved/BP_PortesEnfantsCC84A9B645FA50ED70EBF0AAAB40C37C.tmp' to '../../../../../Githu/CandleUnreal/Content/BluePrint/Triggers/BP_PortesEnfants.uasset'
+[2022.06.06-10.21.52:044][176]AssetCheck: New page: Asset Save: BP_PortesEnfants
+[2022.06.06-10.21.52:044][176]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Triggers/BP_PortesEnfants.BP_PortesEnfants
+[2022.06.06-10.21.52:985][227]LogSlate: Window 'BP_PortesEnfants' being destroyed
+[2022.06.06-10.23.19:156][382]Cmd: TRANSACTION UNDO
+[2022.06.06-10.23.19:156][382]LogEditorTransaction: Undo Set Scale
+[2022.06.06-10.24.55:584][835]LogSlate: Window 'Message Log' being destroyed
+[2022.06.06-10.24.55:591][835]LogSlate: Window 'Message Log' being destroyed
+[2022.06.06-10.24.57:589][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.06-10.24.57:635][949]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2022.06.06-10.24.58:408][949]LogSavePackage: Moving '../../../../../Githu/CandleUnreal/Saved/MaisonV2F1069DC6440E6DF93D108EA63E3C8335.tmp' to '../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.06.06-10.24.58:447][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2_BuiltData" FILE="../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset" SILENT=true
+[2022.06.06-10.24.58:532][949]LogSavePackage: Moving '../../../../../Githu/CandleUnreal/Saved/MaisonV2_BuiltData72150D3E460FD7A4C4EBBEBF72AD16C4.tmp' to '../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2_BuiltData.uasset'
+[2022.06.06-10.24.58:558][949]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.06-10.24.58:558][949]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MaisonV2_BuiltData.MaisonV2_BuiltData
+[2022.06.06-10.24.58:558][949]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
+[2022.06.06-10.24.59:443][ 21]BlueprintLog: New page: Compile BP_PortesEnfants
+[2022.06.06-10.24.59:485][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.06.06-10.24.59:925][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Triggers/BP_PortesEnfants" FILE="../../../../../Githu/CandleUnreal/Content/BluePrint/Triggers/BP_PortesEnfants.uasset" SILENT=true
+[2022.06.06-10.24.59:946][ 48]LogSavePackage: Moving '../../../../../Githu/CandleUnreal/Saved/BP_PortesEnfants4F2C5289421E4DE414EE6DBB2BA014C1.tmp' to '../../../../../Githu/CandleUnreal/Content/BluePrint/Triggers/BP_PortesEnfants.uasset'
+[2022.06.06-10.24.59:975][ 48]AssetCheck: New page: Asset Save: BP_PortesEnfants
+[2022.06.06-10.24.59:975][ 48]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Triggers/BP_PortesEnfants.BP_PortesEnfants
+[2022.06.06-10.25.00:067][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Triggers/BP_PortesEnfants" FILE="../../../../../Githu/CandleUnreal/Content/BluePrint/Triggers/BP_PortesEnfants.uasset" SILENT=true
+[2022.06.06-10.25.00:083][ 55]LogSavePackage: Moving '../../../../../Githu/CandleUnreal/Saved/BP_PortesEnfants6A1E84804968A6CBD9595B9FF80A2E55.tmp' to '../../../../../Githu/CandleUnreal/Content/BluePrint/Triggers/BP_PortesEnfants.uasset'
+[2022.06.06-10.25.00:110][ 55]AssetCheck: New page: Asset Save: BP_PortesEnfants
+[2022.06.06-10.25.00:110][ 55]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Triggers/BP_PortesEnfants.BP_PortesEnfants
+[2022.06.06-10.25.00:718][107]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-10.25.00:718][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-10.25.01:767][150]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2022.06.06-10.25.02:980][150]LogSlate: Window 'Save Content' being destroyed
+[2022.06.06-10.25.03:046][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MaisonV2" FILE="../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.06-10.25.03:081][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.06.06-10.25.03:809][150]LogSavePackage: Moving '../../../../../Githu/CandleUnreal/Saved/MaisonV23B9372FE4B7C009506E55DAB711E73DF.tmp' to '../../../../../Githu/CandleUnreal/Content/Levels/MaisonV2.umap'
+[2022.06.06-10.25.03:883][150]LogFileHelpers: Saving map 'MaisonV2' took 0.840
+[2022.06.06-10.25.03:946][150]AssetCheck: New page: Asset Save: MaisonV2
+[2022.06.06-10.25.03:946][150]LogContentValidation: Display: Validating World /Game/Levels/MaisonV2.MaisonV2
